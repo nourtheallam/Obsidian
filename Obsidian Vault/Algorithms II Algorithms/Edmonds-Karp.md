@@ -1,0 +1,1 @@
+A greedy strategy for finding an [[Augmenting Path]] during the [[Ford-Fulkerson]]. Run the BFS in $G^f$ starting from $s$ to find a shortest [[Augmenting Path]], then proceed with the [[Ford-Fulkerson]] as usual. It runs in $O(nm^2)$ time.

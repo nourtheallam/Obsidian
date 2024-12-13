@@ -1,0 +1,1 @@
+Given a graph $G = (V,E)$, find a vertex cover of either minimum size or weight. This problem is [[NP-Hard]].

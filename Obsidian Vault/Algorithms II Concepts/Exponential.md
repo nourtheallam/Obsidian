@@ -1,0 +1,3 @@
+We write $O^*(f(n))$ to express an algorithm with running time $O(f(n) \cdot n^c)$ where $f(n)$ is an exponential function. 
+
+It is worthwhile to look for the fastest possible exponential-time algorithms that we can find for a given problem as the gap between the running time of one exponential algorithm and the other can often be bigger than the one between an exponential algorithm and a polynomial one. 

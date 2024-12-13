@@ -1,0 +1,1 @@
+Based on [[Strong Duality]], the maximum $st$-flow of a graph $G$ has the same solution as the [[Minimum st-Cut]] of $G$. 

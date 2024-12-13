@@ -1,0 +1,1 @@
+Any feasible solution of a maximization problem $P$ has an objective function value that is $\leq$ the objective function value of a feasible solution of $D$, its [[Dual]].

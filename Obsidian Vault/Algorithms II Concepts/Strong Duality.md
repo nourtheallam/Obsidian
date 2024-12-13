@@ -1,0 +1,1 @@
+An optimal solution of $P$ has an objective function value that **equals** that of an optimal solution of $D$, its [[Dual]].

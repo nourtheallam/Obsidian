@@ -1,0 +1,1 @@
+A problem is fixed-parameter tractable if there exists in algorithm that solves a parameterized instance $(I, k)$ of it in $O(f(k) \cdot n^c)$, [[Exponential]] time where $k$ is an upper bound on the [[Hardness parameter]] of the instance $I$. 

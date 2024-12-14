@@ -1,0 +1,1 @@
+Given an undirected graph $G$, find the **minimum** number of edges that need to be added to or removed from it such that it becomes a clique. 

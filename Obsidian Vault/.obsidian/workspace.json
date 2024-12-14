@@ -11,12 +11,14 @@
             "id": "525fe9034078e32c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/IMG_0103.jpeg"
+                "file": "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_0103"
+              "icon": "lucide-file",
+              "title": "Vertex Cover Crown Reduction"
             }
           }
         ]
@@ -200,24 +202,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "930f36b14cf2b6bb",
+  "active": "525fe9034078e32c",
   "lastOpenFiles": [
-    "Images/Pasted image 20241214132805.png",
+    "Algorithms II Concepts/Crown.md",
+    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
+    "Pasted image 20241214150308.png",
+    "Pasted image 20241214150132.png",
+    "Pasted image 20241214150115.png",
+    "Algorithms II Algorithms/Crown Reduction.md",
     "Algorithms II Algorithms/Cluster Editing Reduction.md",
+    "Pasted image 20241214142705.png",
+    "Algorithms II Concepts/Kernelization.md",
+    "Algorithms II Algorithms/Vertex Cover Reduction.md",
+    "Images/Pasted image 20241214132805.png",
+    "Images/IMG_0103.jpeg",
     "Images/Pasted image 20241214132737.png",
     "Images/Pasted image 20241214132719.png",
     "Images/Pasted image 20241214132714.png",
-    "Images/IMG_0103.jpeg",
     "Algorithms II Concepts/Cluster Editing.md",
     "Images/Pasted image 20241213211133.png",
     "Algorithms II Concepts/Clique.md",
-    "Algorithms II Algorithms/Vertex Cover Reduction.md",
-    "Algorithms II Algorithms/Untitled.md",
     "Algorithms II Algorithms/Vertex Cover Exponential.md",
     "Algorithms II Concepts/Parametrized.md",
-    "Algorithms II Concepts/Kernelization.md",
     "Algorithms II Concepts/FPT.md",
-    "Images/Pasted image 20241213201433.png",
     "Algorithms II Concepts/Problem kernel.md",
     "Algorithms II Concepts/Reduction rule.md",
     "Algorithms II Concepts/Hardness parameter.md",
@@ -228,15 +235,11 @@
     "Algorithms II Concepts/Approximation.md",
     "Algorithms II Concepts/Augmenting Path.md",
     "Quantum Computation/Final Exam.md",
-    "Pasted image 20241213145245.png",
-    "Pasted image 20241213131850.png",
-    "Pasted image 20241213131832.png",
     "Quantum Computation/Assignment 5.md",
     "Quantum Computation/Assignment 3.md",
     "Quantum Computation/Assignment 4.md",
     "Quantum Computation/Questions on the final exam.md",
     "Quantum Computation/Assignment I.md",
-    "Quantum Computation/Final Summary Notes.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

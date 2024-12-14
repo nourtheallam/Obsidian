@@ -452,6 +452,8 @@ significantly
 sense
 symmetry
 slackness
+solved
+smaller
 that
 the
 time
@@ -677,6 +679,8 @@ terminate
 try
 todo
 though
+tractable
+transforms
 Schrödinger
 Same
 Since
@@ -866,6 +870,9 @@ SqO
 Something
 Slackness
 SHOW
+Some
+See
+Singleton
 equation
 equal
 energy
@@ -1119,6 +1126,10 @@ exceeding
 exceeds
 enough
 exercise
+easy
+exponentially
+etc
+employ
 can
 components
 call
@@ -1590,6 +1601,8 @@ bEc
 bottle
 better
 beta
+branching
+branches
 into
 is
 independent
@@ -1841,6 +1854,7 @@ ineffective
 instance
 infeasible
 inverses
+implemented
 depedent
 dependent
 definite
@@ -2089,6 +2103,8 @@ determining
 dKX
 depending
 deduction
+decision
+decreasing
 and
 above
 as
@@ -2517,6 +2533,7 @@ lzc
 lpM
 lPH
 leq
+language
 us
 unlike
 up
@@ -2879,6 +2896,7 @@ wvG
 wXU
 wQS
 worry
+work
 The
 Time
 Thus
@@ -3209,6 +3227,7 @@ hQH
 hXc
 hSM
 helps
+hard
 meaning
 measurement
 mechanics
@@ -3452,6 +3471,7 @@ mvFO
 mtA
 mind
 mean
+monotonically
 of
 one
 only
@@ -3897,6 +3917,11 @@ recursive
 refer
 rearranged
 relations
+related
+reduction
+redundant
+recurrence
+rules
 value
 values
 variables
@@ -4219,6 +4244,7 @@ HHQ
 HTm
 Hwe
 Hard
+High
 gives
 general
 give
@@ -4871,6 +4897,7 @@ UPN
 UwT
 UfB
 UWm
+Unlike
 note
 number
 not
@@ -5229,6 +5256,8 @@ fQj
 fPhm
 family
 finish
+fixed
+fully
 proves
 probabilities
 probability
@@ -5469,6 +5498,8 @@ possibly
 packing
 polynomial
 picks
+parameterized
+potentially
 When
 Well
 Which
@@ -5789,6 +5820,7 @@ FEr
 Fpw
 FbL
 FUO
+FPT
 Coefficients
 Ctrl
 Consider
@@ -7208,6 +7240,8 @@ kyad
 kiW
 kWg
 kqv
+kernel
+kernelization
 jump
 jhAF
 jRN
@@ -7665,6 +7699,7 @@ GrL
 Gqeh
 GPy
 Gmmm
+Getting
 Recall
 RDu
 RN
@@ -7958,6 +7993,7 @@ KUV
 KQQ
 KGx
 Kxl
+Kernelization
 xcXEVFRUQEBA
 xboRmLPMvSd
 xomwkHdxOg
@@ -8419,6 +8455,8 @@ DqF
 DHoO
 DBc
 Dyd
+Degree
+Decrease
 MfujfQu
 MB
 Mc

@@ -1,1 +1,1 @@
-Some property of the input to the problem that related to how "hard" or "easy" a solution is to compute on this input. 
+Some property of the input to the problem that is related to how "hard" or "easy" a solution is to compute on this input. 

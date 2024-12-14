@@ -24,6 +24,6 @@ Since each iteration picks the set that would cover $e_{i}$ with minimum cost, w
 $$\sum_{e \in S} p_{e} \leq w_{S}\sum_{i = 1}^k \frac{1}{k-i+1} = w_{S} . H_{k}$$
 And since $k \leq n$
 $$\sum_{e \in S} y_{e} = \frac{\sum_{e \in S}p_{e}}{ H_{n}}\leq w_{S} . \frac{H_{k}}{H_{n}} \leq w_{S} $$
-Which means that such a solution is feasible, and therefore, by weak duality, that a feasible solution to the primal will be an $H_{n}$-approximation to an optimal solution. 
+Which means that such a solution is feasible, and therefore, by [[Weak Duality]], that a feasible solution to the primal will be an $H_{n}$-[[Approximation]] to an optimal solution. 
 
 - [ ] Double check the above conclusion #todo

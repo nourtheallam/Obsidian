@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ab064559f27510",
+        "id": "56bac33196ff14e4",
         "type": "tabs",
         "children": [
           {
-            "id": "ecebb938fe0b3626",
+            "id": "525fe9034078e32c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Concepts/Complementary Slackness.md",
+                "file": "Algorithms II Algorithms/Cluster Editing Reduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complementary Slackness"
+              "title": "Cluster Editing Reduction"
             }
           }
         ]
@@ -149,12 +149,32 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a928a89ea7cca4fc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "21a958bdf1f4ba4d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -172,10 +192,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "ecebb938fe0b3626",
+  "active": "21a958bdf1f4ba4d",
   "lastOpenFiles": [
-    "Algorithms II Concepts/Approximation.md",
+    "Algorithms II Concepts/Cluster Editing.md",
+    "Pasted image 20241213211133.png",
+    "Algorithms II Algorithms/Cluster Editing Reduction.md",
+    "Algorithms II Concepts/Clique.md",
+    "Algorithms II Algorithms/Vertex Cover Reduction.md",
+    "Algorithms II Algorithms/Untitled.md",
+    "Algorithms II Algorithms/Vertex Cover Exponential.md",
+    "Algorithms II Concepts/Parametrized.md",
+    "Algorithms II Concepts/Kernelization.md",
+    "Algorithms II Concepts/FPT.md",
+    "Images/Pasted image 20241213201433.png",
+    "Algorithms II Concepts/Problem kernel.md",
+    "Algorithms II Concepts/Reduction rule.md",
+    "Algorithms II Concepts/Hardness parameter.md",
+    "Algorithms II Algorithms/Vertex Cover 2-Approximation.md",
+    "Algorithms II Concepts/Family of Tight Inputs.md",
     "Algorithms II Concepts/Complementary Slackness.md",
+    "Algorithms II Concepts/Dual.md",
+    "Algorithms II Concepts/Approximation.md",
     "Algorithms II Concepts/Augmenting Path.md",
     "Quantum Computation/Final Exam.md",
     "Pasted image 20241213145245.png",
@@ -186,30 +223,12 @@
     "Pasted image 20241213000119.png",
     "Pasted image 20241213000055.png",
     "Pasted image 20241213000036.png",
-    "Pasted image 20241212214748.png",
-    "Pasted image 20241212214736.png",
     "Quantum Computation/Assignment 5.md",
     "Quantum Computation/Assignment 3.md",
     "Quantum Computation/Assignment 4.md",
     "Quantum Computation/Questions on the final exam.md",
     "Quantum Computation/Assignment I.md",
     "Quantum Computation/Final Summary Notes.md",
-    "Algorithms II Concepts/Primal-Dual Schema.md",
-    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
-    "Algorithms II Concepts/Weak Duality.md",
-    "Algorithms II Concepts/Relaxed Complementary Slackness.md",
-    "Algorithms II Algorithms/Set Cover Greedy.md",
-    "Algorithms II Algorithms/Set Cover Layering.md",
-    "Algorithms II Concepts/Dual Fitting.md",
-    "Algorithms II Concepts/Layering.md",
-    "Algorithms II Concepts/Family of Tight Inputs.md",
-    "Algorithms II Concepts/Hardness parameter.md",
-    "Algorithms II Concepts/FPT.md",
-    "Algorithms II Algorithms/Vertex Cover Exponential.md",
-    "Algorithms II Concepts/Exponential.md",
-    "Algorithms II Algorithms/Vertex Cover 2-Approximation.md",
-    "Algorithms II Assignments/Assignment 7.md",
-    "Algorithms II Assignments/Assignment 6.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

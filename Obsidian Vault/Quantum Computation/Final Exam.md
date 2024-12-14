@@ -351,7 +351,7 @@ As justified earlier, it follows from proving $\{ V_{X}, V_{Y}, V_{Z} \} \in \ma
 
 #### Exercise 7 
 
-In Assignment 4, we showed that the Hadamard gate $H$ and the phase gate $S$ conjugate Pauli matrices into other Pauli matrices, possibly introducing a factor of $-1$. Specifically, we have the following conjugation relations:
+In [[Assignment 4]], we showed that the Hadamard gate $H$ and the phase gate $S$ conjugate Pauli matrices into other Pauli matrices, possibly introducing a factor of $-1$. Specifically, we have the following conjugation relations:
 
 $$
    H Z H^\dagger = X, \quad H X H^\dagger = Z, \quad H Y H^\dagger = -Y,

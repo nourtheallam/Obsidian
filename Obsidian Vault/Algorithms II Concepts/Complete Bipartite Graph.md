@@ -1,0 +1,1 @@
+There exists an edge between every unique pair $(u,w)$ and $|U| = |W|$. This implies that a [[Perfect matching]] will always exist.

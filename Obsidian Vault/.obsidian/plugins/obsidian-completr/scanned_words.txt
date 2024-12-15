@@ -303,6 +303,7 @@ APC
 Aoj
 AND
 ARE
+Adjust
 showing
 separated
 space
@@ -740,6 +741,8 @@ sAT
 ssv
 sfr
 saturating
+shortcut
+sure
 that
 the
 time
@@ -2490,6 +2493,7 @@ branch
 bKs
 brh
 bTAA
+beforehand
 into
 is
 independent
@@ -2894,6 +2898,8 @@ iDh
 iBy
 iHR
 ibF
+inspect
+isolated
 depedent
 dependent
 definite
@@ -3258,6 +3264,7 @@ djN
 dgU
 dsw
 daL
+decrease
 and
 above
 as
@@ -3622,6 +3629,7 @@ asie
 altitude
 applicable
 among
+adjust
 let
 linear
 line
@@ -4851,6 +4859,7 @@ Tax
 TWN
 TeP
 TRg
+Tight
 have
 how
 homogenous
@@ -7140,6 +7149,7 @@ gro
 gmz
 gow
 gsO
+gave
 In
 Infinite
 Inside
@@ -8313,6 +8323,7 @@ nPk
 nHs
 nmX
 nnSz
+needs
 for
 find
 function
@@ -8596,6 +8607,7 @@ fPz
 fBs
 fsZ
 fCY
+forest
 proves
 probabilities
 probability
@@ -9543,6 +9555,7 @@ FDZM
 FzfaP
 FFH
 FMl
+Formulate
 Coefficients
 Ctrl
 Consider

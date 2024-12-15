@@ -5,7 +5,7 @@ A subset of edges of a graph such that no two edges in it share an endpoint.
 **For two matchings $M_{1}$ and $M_{2}$, $M' = M_{1} \oplus M_{2}$ is a collection of alternating paths and cycles such that if there are $a_{1}$ augmenting paths for $M_{1}$ and $a_{2}$ for $M_{2}$ in $M'$ then** 
 $$|M_{1}| = |M_{2}| - a_{1} + a_{2}$$
 $\rightarrow$ Any even length path and any even-length cycle (which is all the cycles) in $M'$ contains an equal amount of edges in $M_{1}$ and $M_{2}$. 
-$\rightarrow$ An odd-length path is in $M'$ $\iff$ it is an augmenting path for one of the two matchings.
+$\rightarrow$ An odd-length path is in $M'$ $\iff$ it is an [[Augmenting Path]] for one of the two matchings.
 	Consider an odd-length path in $M'$ that contains one more edge in $M_{2}$.
 	![[Pasted image 20241214212900.png]]
 	Therefore, all the odd-length paths that contain one more edge in $M_{2}$ than $M_{1}$ in $M_{1} \oplus M_{2}$ are augmenting paths of $M_{1}$, and vice versa. 

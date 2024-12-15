@@ -10,4 +10,4 @@ Therefore, no vertex in $H$ is unmatched, which means that the size of the [[Mat
 
 **(2) If $G$ is a [[Bipartite]] graph, then it either has a maximum [[Matching]] $M$ that matches every vertex in $I \subseteq U$ or a crown. Determining this takes $O(\sqrt{ n}m)$ time.**
 
-We show that, using  the Hopcroft-Karp algorithm, we can compute the maximum [[Matching]] of a graph in $O(\sqrt{ n }m)$ time. Once we compute this [[Matching]], we can check if every vertex in it belongs to $U$ in $O(n)$ time. If they don't, then we can run alternating BFS on it so that we can find $I$ and $H$. 
+We show that, using  the Hopcroft-Karp algorithm, we can compute the maximum [[Matching]] of a graph in $O(\sqrt{ n }m)$ time. Once we compute this [[Matching]], we can check if every vertex in it belongs to $U$ in $O(n)$ time. If they don't, then we can run [[Alternating BFS]] on it so that we can find $I$ and $H$. 

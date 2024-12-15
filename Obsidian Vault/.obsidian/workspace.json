@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Concepts/Matching.md",
+                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matching"
+              "title": "The Hungarian Algorithm"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Concepts/Matching.md"
+                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Matching"
+              "title": "Outline of The Hungarian Algorithm"
             }
           },
           {
@@ -204,44 +204,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21cfae441f31f4b7",
+  "active": "525fe9034078e32c",
   "lastOpenFiles": [
-    "Images/Pasted image 20241214220431.png",
-    "Images/Pasted image 20241214212900.png",
-    "Images/Pasted image 20241214190430.png",
-    "Images/Pasted image 20241214171632.png",
-    "Images/Pasted image 20241214171608.png",
-    "Images/Pasted image 20241214170457.png",
-    "Images/Pasted image 20241214170428.png",
-    "Images/Pasted image 20241214170111.png",
-    "Images/Pasted image 20241214154745.png",
-    "Images/Pasted image 20241214152505.png",
-    "Images/Pasted image 20241214150308.png",
+    "Images/Pasted image 20241215170239.png",
+    "Images/Pasted image 20241215165249.png",
+    "Images/Pasted image 20241215165038.png",
+    "Images/Pasted image 20241215165018.png",
+    "Images/Pasted image 20241215164914.png",
+    "Images/Pasted image 20241215162433.png",
+    "Images/Pasted image 20241215152300.png",
+    "Images/Pasted image 20241215151741.png",
+    "Images/Pasted image 20241215151714.png",
+    "Images/Pasted image 20241215140551.png",
+    "Images/Pasted image 20241215140330.png",
+    "Algorithms II Algorithms/Preflow-Push.md",
+    "Algorithms II Algorithms/The Hungarian Algorithm.md",
+    "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
+    "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
+    "Algorithms II Concepts/Complementary Slackness.md",
+    "Algorithms II Concepts/Dual.md",
+    "Algorithms II Concepts/Primal-Dual Schema.md",
+    "Algorithms II Concepts/Strong Duality.md",
+    "Algorithms II Concepts/Dual Fitting.md",
+    "Algorithms II Concepts/Complete Bipartite Graph.md",
+    "Algorithms II Concepts/Perfect matching.md",
+    "Algorithms II Concepts/Untitled.md",
+    "Algorithms II Algorithms/Alternating BFS.md",
+    "Algorithms II Concepts/Alternating Forest.md",
+    "Algorithms II Concepts/Matching.md",
     "Algorithms II Concepts/Augmenting Path.md",
     "Algorithms II Algorithms/Maximal matching.md",
     "Algorithms II Concepts/Crown.md",
-    "Algorithms II Concepts/Perfect matching.md",
     "Algorithms II Concepts/Bipartite.md",
-    "Algorithms II Concepts/Matching.md",
-    "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Concepts/Kernelization.md",
-    "Algorithms II Concepts/Strong Duality.md",
     "Algorithms II Concepts/Layering.md",
     "Algorithms II Concepts/FPT.md",
-    "Algorithms II Concepts/Dual Fitting.md",
     "Algorithms II Concepts/Basic Feasible Solution.md",
-    "Algorithms II Concepts/Complementary Slackness.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Algorithms/Simplex.md",
-    "Algorithms II Concepts/Standard form.md",
-    "Algorithms II Concepts/Canonical form.md",
-    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
-    "Algorithms II Algorithms/Crown Reduction.md",
-    "Algorithms II Algorithms/Cluster Editing Reduction.md",
-    "Algorithms II Algorithms/Vertex Cover Reduction.md",
-    "Algorithms II Concepts/Cluster Editing.md",
-    "Algorithms II Concepts/Clique.md",
-    "Algorithms II Algorithms/Vertex Cover Exponential.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

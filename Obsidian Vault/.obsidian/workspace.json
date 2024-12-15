@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Preflow-Push.md",
+                "file": "Algorithms II Concepts/Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preflow-Push"
+              "title": "Matching"
             }
           }
         ]
@@ -138,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Algorithms II Concepts/Matching.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Matching"
             }
           },
           {
@@ -149,8 +151,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -159,8 +161,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -202,44 +204,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "525fe9034078e32c",
+  "active": "21cfae441f31f4b7",
   "lastOpenFiles": [
-    "Pasted image 20241214190430.png",
-    "Algorithms II Algorithms/Edmonds-Karp.md",
-    "Algorithms II Algorithms/Preflow-Push.md",
-    "Algorithms II Algorithms/Simplex.md",
-    "Algorithms II Concepts/Basic Feasible Solution.md",
-    "Pasted image 20241214171632.png",
-    "Pasted image 20241214171608.png",
-    "Algorithms II Concepts/Standard form.md",
-    "Pasted image 20241214170457.png",
-    "Pasted image 20241214170428.png",
-    "Algorithms II Concepts/Canonical form.md",
-    "Pasted image 20241214170111.png",
-    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
-    "Pasted image 20241214154745.png",
-    "Pasted image 20241214152505.png",
+    "Images/Pasted image 20241214220431.png",
+    "Images/Pasted image 20241214212900.png",
+    "Images/Pasted image 20241214190430.png",
+    "Images/Pasted image 20241214171632.png",
+    "Images/Pasted image 20241214171608.png",
+    "Images/Pasted image 20241214170457.png",
+    "Images/Pasted image 20241214170428.png",
+    "Images/Pasted image 20241214170111.png",
+    "Images/Pasted image 20241214154745.png",
+    "Images/Pasted image 20241214152505.png",
+    "Images/Pasted image 20241214150308.png",
+    "Algorithms II Concepts/Augmenting Path.md",
+    "Algorithms II Algorithms/Maximal matching.md",
     "Algorithms II Concepts/Crown.md",
-    "Pasted image 20241214150308.png",
-    "Pasted image 20241214150132.png",
-    "Pasted image 20241214150115.png",
+    "Algorithms II Concepts/Perfect matching.md",
+    "Algorithms II Concepts/Bipartite.md",
+    "Algorithms II Concepts/Matching.md",
+    "Algorithms II Algorithms/Preflow-Push.md",
+    "Algorithms II Concepts/Kernelization.md",
+    "Algorithms II Concepts/Strong Duality.md",
+    "Algorithms II Concepts/Layering.md",
+    "Algorithms II Concepts/FPT.md",
+    "Algorithms II Concepts/Dual Fitting.md",
+    "Algorithms II Concepts/Basic Feasible Solution.md",
+    "Algorithms II Concepts/Complementary Slackness.md",
+    "Algorithms II Algorithms/Edmonds-Karp.md",
+    "Algorithms II Algorithms/Simplex.md",
+    "Algorithms II Concepts/Standard form.md",
+    "Algorithms II Concepts/Canonical form.md",
+    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
     "Algorithms II Algorithms/Crown Reduction.md",
     "Algorithms II Algorithms/Cluster Editing Reduction.md",
-    "Algorithms II Concepts/Kernelization.md",
     "Algorithms II Algorithms/Vertex Cover Reduction.md",
     "Algorithms II Concepts/Cluster Editing.md",
     "Algorithms II Concepts/Clique.md",
     "Algorithms II Algorithms/Vertex Cover Exponential.md",
-    "Algorithms II Concepts/Parametrized.md",
-    "Algorithms II Concepts/FPT.md",
-    "Algorithms II Concepts/Problem kernel.md",
-    "Algorithms II Concepts/Reduction rule.md",
-    "Algorithms II Concepts/Hardness parameter.md",
-    "Algorithms II Algorithms/Vertex Cover 2-Approximation.md",
-    "Algorithms II Concepts/Family of Tight Inputs.md",
-    "Algorithms II Concepts/Complementary Slackness.md",
-    "Algorithms II Concepts/Dual.md",
-    "Algorithms II Concepts/Approximation.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

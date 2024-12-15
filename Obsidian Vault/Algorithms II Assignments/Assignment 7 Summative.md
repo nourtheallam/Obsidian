@@ -130,7 +130,7 @@ We can conclude that
 $$w(M') \leq \frac{1}{2}w(S)$$
 ---
 
-Since any minimum-weight perfect matching $M$ of $G[O]$ will have at most the weight of $M'$, we can thus also claim that $M$ has at most half the weight of $S_o$, and since we proved that the weight of the travelling salesman tour of $G[O]$ is at most the weight of the travelling salesman tour of $G$, we can further claim that $M$ has at most half the weight of the travelling salesman tour of $G$.
+Since any minimum-weight [[Perfect matching]] $M$ of $G[O]$ will have at most the weight of $M'$, we can thus also claim that $M$ has at most half the weight of $S_o$, and since we proved that the weight of the travelling salesman tour of $G[O]$ is at most the weight of the travelling salesman tour of $G$, we can further claim that $M$ has at most half the weight of the travelling salesman tour of $G$.
 #### (4)
 
  A vertex $x_{i_{j}}$ occurs exactly once in the sequence defining $C'$, with the exception of the first and last positions of the sequence, which must belong to the same vertex. Since the first and last vertices of the sequence are the same, $C'$ must be a cycle. And since all the other vertices in $G$ occur exactly once in $C'$, and since $G$ is complete, $C'$ is a Hamiltonian cycle. 

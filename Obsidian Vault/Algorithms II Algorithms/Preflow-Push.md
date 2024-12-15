@@ -31,7 +31,7 @@ Since there is no path between $s$ and $t$ in the [[Residual Network]] at termin
 
 **Running time**
 
-First, we should prove that t**here always exists a path between a vertex $x$ and $s$ in the residual network of $G$.** 
+First, we should prove that t**here always exists a path between a vertex $x$ and $s$ in the [[Residual Network]] of $G$.** 
 	Let $W$ be the set of vertices (other than $t$) reachable from $x$ in $G^f$, and assume that $s$ is not among those vertices. Then the sum of the excess flow at all vertices in $W$ is
 	![[Pasted image 20241214190430.png]]
 	Which implies that there exists an edge $(z,y)$, and therefore, that $z$ must also be reachable form $x$.
@@ -58,4 +58,12 @@ Considering the saturating push operation from $x$ to $y$. Here the height of $x
 Define the **potential** of an iteration as the sum of the heights of the excess vertices.
 
 $\rightarrow$ A **relabel** operation increases the potential by at most $2n-1$ for each vertex.
-$\rightarrow$ A **saturating push** operation from $x$ to $y$ may result in $y$ becoming an excess vertex when it wasn't before, and therefore, 
+$\rightarrow$ A **saturating push** operation from $x$ to $y$ may result in $y$ becoming an excess vertex when it wasn't before, and therefore, may end up adding its height  to the potential. Since that height is $\leq 2n -1$, the operation increases the potential at most by that amount.
+
+The total increase by relabel and saturating push operations is therefore $(2n-1)(O(2n^2 + O(2nm))) = O(8n^2m)$. 
+
+$\rightarrow$ A **non-saturating push** from $x$ to $y$ will set $e_{x} = 0$ and possibly create excess at $y$ when there wasn't any before. Therefore, the total change in height would be the difference between their heights, which needs to always be $1$. Since the height of $y$ is actually less than the height of $x$, this change is actually a **decrease by 1.**
+
+Therefore, a **non-saturating** push can decrease at most what has been increased, $O(8n^2m)$. 
+
+

@@ -8,5 +8,5 @@ Given an [[Approximation]] algorithm, does there exist an infinite family of inp
 
 **Example:** [[Vertex Cover 2-Approximation]] 
 
-Consider the set of complete bipartite graphs over $2n$ vertices, a maximal matching of any such graph includes all $2n$ vertices, and therefore the algorithm computes a [[Vertex Cover]] of size $2n$. However, a [[Vertex Cover]] of size $n$ does exist as the graph is complete. 
+Consider the set of complete [[Bipartite]] graphs over $2n$ vertices, a maximal [[Matching]] of any such graph includes all $2n$ vertices, and therefore the algorithm computes a [[Vertex Cover]] of size $2n$. However, a [[Vertex Cover]] of size $n$ does exist as the graph is complete. 
 

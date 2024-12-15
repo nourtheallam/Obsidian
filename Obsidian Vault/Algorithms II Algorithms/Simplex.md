@@ -1,4 +1,4 @@
-We take an LP in standard form. 
+We take an LP in [[Standard form]]. 
 
 **1. Does it have a feasible solution?**
 

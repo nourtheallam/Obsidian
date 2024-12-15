@@ -1,9 +1,9 @@
 ---
 ~
 ---
-In vertex cover reduction, we obtained a kernel of size $k(k+1)$, which is not good because the running time of vertex cover is $O^*(2^n) \implies O^*(2^{k^2})$. 
+In [[Vertex Cover]] reduction, we obtained a kernel of size $k(k+1)$, which is not good because the running time of [[Vertex Cover]] is $O^*(2^n) \implies O^*(2^{k^2})$. 
 
-We want a kernel of size $ak \implies O^*(2^{ak}) \implies O(c^k)$ instead, using crown reduction.
+We want a kernel of size $ak \implies O^*(2^{ak}) \implies O(c^k)$ instead, using [[Crown]] reduction.
 
 Our **only** rule is:
 	Compute a maximal matching $M$
@@ -16,15 +16,15 @@ Our **only** rule is:
 If we find the matching, the $(G,k)$ is the kernel. Since $(G,k)$ remains unchanged, we don't have to worry about that part. 
 
 If we don't find the matching then
-	If $|H| > k$, then $G$ has no vertex cover of size $\leq k$, and we have a no-instance. 
+	If $|H| > k$, then $G$ has no [[Vertex Cover]] of size $\leq k$, and we have a no-instance. 
 	Else if $|H| \geq k$, then $G$ **might** be a yes-instance. We need to prove that if $(G - (I,H), k - |H|)$ is a yes-instance $\iff$ $(G,k)$ is a yes-instance.
 
 Let $G' = G-(I,H)$ and $k' = k - |H|$
 
-If $(G', k')$ is a yes-instance then there exists a vertex cover $C'$ of $G'$ whose size is at most $k'$. 
-But, more importantly, the set $C' \cup H$ is a vertex cover of $G$ because every vertex in $H$ is matched by such a matching, and as we showed in the description of crown. 
+If $(G', k')$ is a yes-instance then there exists a [[Vertex Cover]] $C'$ of $G'$ whose size is at most $k'$. 
+But, more importantly, the set $C' \cup H$ is a [[Vertex Cover]] of $G$ because every vertex in $H$ is matched by such a matching, and as we showed in the description of [[Crown]]. 
 
-If $(G,k)$ is a yes-instance with vertex cover $C$, then $(G', k')$ is a yes-instance if $H \subseteq C$. 
+If $(G,k)$ is a yes-instance with [[Vertex Cover]] $C$, then $(G', k')$ is a yes-instance if $H \subseteq C$. 
 
 - [ ] #todo incomplete 🔺 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
+                "file": "Algorithms II Algorithms/Steiner Tree DP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Hungarian Algorithm"
+              "title": "Steiner Tree DP"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II/Assignment 6.md",
+                "file": "Algorithms II Algorithms/Steiner Tree DP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Assignment 6"
+              "title": "Backlinks for Steiner Tree DP"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II/Assignment 3 Summative.md",
+                "file": "Algorithms II Algorithms/Steiner Tree DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Assignment 3 Summative"
+              "title": "Outgoing links from Steiner Tree DP"
             }
           },
           {
@@ -139,30 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md"
+                "file": "Algorithms II Algorithms/Steiner Tree DP.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Hungarian Algorithm"
-            }
-          },
-          {
-            "id": "02eac17e49067519",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "a928a89ea7cca4fc",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "title": "Outline of Steiner Tree DP"
             }
           },
           {
@@ -186,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,21 +184,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "525fe9034078e32c",
+  "active": "21cfae441f31f4b7",
   "lastOpenFiles": [
-    "Images/Pasted image 20241215170239.png",
-    "Images/Pasted image 20241215165249.png",
-    "Images/Pasted image 20241215165038.png",
-    "Images/Pasted image 20241215165018.png",
-    "Images/Pasted image 20241215164914.png",
-    "Images/Pasted image 20241215162433.png",
-    "Images/Pasted image 20241215152300.png",
-    "Images/Pasted image 20241215151741.png",
-    "Images/Pasted image 20241215151714.png",
-    "Images/Pasted image 20241215140551.png",
-    "Images/Pasted image 20241215140330.png",
-    "Algorithms II Algorithms/Preflow-Push.md",
+    "Pasted image 20241216010616.png",
+    "Pasted image 20241216010451.png",
+    "Algorithms II Algorithms/Steiner Tree Simple.md",
+    "Algorithms II Algorithms/Steiner Tree DP.md",
+    "Algorithms II Concepts/Steiner Tree.md",
+    "Algorithms II Algorithms/Travelling Salesman Dynamic Programming.md",
+    "Pasted image 20241216001433.png",
+    "Algorithms II Concepts/Dynamic Programming.md",
+    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
+    "Algorithms II Algorithms/Edmonds's Algorithm.md",
+    "Pasted image 20241215205126.png",
+    "Pasted image 20241215205109.png",
+    "Pasted image 20241215205045.png",
+    "Pasted image 20241215195936.png",
+    "Pasted image 20241215194658.png",
+    "Pasted image 20241215194600.png",
+    "Pasted image 20241215194301.png",
+    "Algorithms II Algorithms/General Maximum-Cardinality Matching.md",
+    "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
+    "Images/Pasted image 20241215170239.png",
+    "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
     "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
     "Algorithms II Concepts/Complementary Slackness.md",
@@ -228,20 +217,11 @@
     "Algorithms II Concepts/Dual Fitting.md",
     "Algorithms II Concepts/Complete Bipartite Graph.md",
     "Algorithms II Concepts/Perfect matching.md",
-    "Algorithms II Concepts/Untitled.md",
     "Algorithms II Algorithms/Alternating BFS.md",
     "Algorithms II Concepts/Alternating Forest.md",
     "Algorithms II Concepts/Matching.md",
     "Algorithms II Concepts/Augmenting Path.md",
     "Algorithms II Algorithms/Maximal matching.md",
-    "Algorithms II Concepts/Crown.md",
-    "Algorithms II Concepts/Bipartite.md",
-    "Algorithms II Concepts/Kernelization.md",
-    "Algorithms II Concepts/Layering.md",
-    "Algorithms II Concepts/FPT.md",
-    "Algorithms II Concepts/Basic Feasible Solution.md",
-    "Algorithms II Algorithms/Edmonds-Karp.md",
-    "Algorithms II Algorithms/Simplex.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

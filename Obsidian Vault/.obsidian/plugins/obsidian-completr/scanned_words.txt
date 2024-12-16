@@ -304,6 +304,7 @@ Aoj
 AND
 ARE
 Adjust
+Adjustment
 showing
 separated
 space
@@ -743,6 +744,8 @@ sfr
 saturating
 shortcut
 sure
+said
+subproblem
 that
 the
 time
@@ -2220,6 +2223,7 @@ cluster
 cliques
 clusters
 crown
+cool
 be
 both
 by
@@ -2900,6 +2904,8 @@ iHR
 ibF
 inspect
 isolated
+importantly
+incomplete
 depedent
 dependent
 definite
@@ -3265,6 +3271,8 @@ dgU
 dsw
 daL
 decrease
+description
+dynamic
 and
 above
 as
@@ -3630,6 +3638,7 @@ altitude
 applicable
 among
 adjust
+augment
 let
 linear
 line
@@ -4860,6 +4869,7 @@ TWN
 TeP
 TRg
 Tight
+TSP
 have
 how
 homogenous
@@ -5138,6 +5148,8 @@ hDW
 hIJ
 height
 heights
+haven
+hardness
 meaning
 measurement
 mechanics
@@ -5606,6 +5618,7 @@ mCQ
 moO
 moK
 mCG
+might
 of
 one
 only
@@ -6342,6 +6355,9 @@ raising
 raise
 relabel
 relabelled
+ran
+reduce
+reign
 value
 values
 variables
@@ -6625,6 +6641,7 @@ vRaKR
 vQs
 vxb
 vkF
+very
 Hamiltonian
 Header
 However
@@ -7150,6 +7167,7 @@ gmz
 gow
 gsO
 gave
+great
 In
 Infinite
 Inside
@@ -8324,6 +8342,7 @@ nHs
 nmX
 nnSz
 needs
+nice
 for
 find
 function
@@ -8958,6 +8977,10 @@ pCf
 pJT
 pdx
 pGa
+predecessor
+pairing
+phases
+programming
 When
 Well
 Which
@@ -9852,6 +9875,7 @@ CEb
 CIk
 CyP
 COI
+Compute
 Expectation
 Example
 Enter
@@ -10161,6 +10185,7 @@ EDn
 EXWz
 Ewrw
 EdJ
+Else
 Note
 Next
 NDk
@@ -10925,6 +10950,7 @@ Bkm
 BEb
 BPE
 Bga
+Before
 Question
 QhAL
 QAxdR
@@ -12854,6 +12880,7 @@ PAU
 PyH
 PoK
 PUSH
+Proofs
 Given
 GxsZcXFx
 GUYRrDpuz

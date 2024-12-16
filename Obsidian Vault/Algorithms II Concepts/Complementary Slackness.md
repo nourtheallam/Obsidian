@@ -1,4 +1,4 @@
-$\rightarrow$ A good example of applying this is the [[Bipartite Minimum-Weight Perfect Matching LP]] and its application in the Hungarian Algorithm. 
+$\rightarrow$ A good example of applying this is the [[Bipartite Minimum-Weight Perfect Matching LP]] and its application in [[The Hungarian Algorithm]]. 
 
 Consider a maximization LP
 

@@ -8,91 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7abc73d0d427d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiway Vertex Cut Half-Integrality"
-            }
-          },
-          {
-            "id": "71fc4eaee929f632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms II Concepts/Extreme Point Solution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extreme Point Solution"
-            }
-          },
-          {
-            "id": "bdd711ce4886bc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms II Concepts/Randomization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Randomization"
-            }
-          },
-          {
-            "id": "0d2089ba7acf4b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms II Concepts/Derandomization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derandomization"
-            }
-          },
-          {
-            "id": "37638f60594151d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MAX-SAT Randomized Rounding"
-            }
-          },
-          {
             "id": "70dce578f27a8acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Concepts/Randomized Rounding.md",
+                "file": "Algorithms II Algorithms/Preflow-Push.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Randomized Rounding"
+              "title": "Preflow-Push"
+            }
+          },
+          {
+            "id": "c985dafbc3050ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms II Concepts/Kernelization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernelization"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+                "file": "Algorithms II Algorithms/Preflow-Push.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAX-SAT Randomized Rounding"
+              "title": "Backlinks for Preflow-Push"
             }
           },
           {
@@ -183,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+                "file": "Algorithms II Algorithms/Preflow-Push.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MAX-SAT Randomized Rounding"
+              "title": "Outgoing links from Preflow-Push"
             }
           },
           {
@@ -210,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md"
+                "file": "Algorithms II Algorithms/Preflow-Push.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MAX-SAT Randomized Rounding"
+              "title": "Outline of Preflow-Push"
             }
           },
           {
@@ -256,28 +199,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37638f60594151d8",
+  "active": "70dce578f27a8acf",
   "lastOpenFiles": [
-    "Pasted image 20241216132913.png",
-    "Pasted image 20241216132721.png",
+    "Algorithms II Concepts/Dual.md",
+    "Algorithms II Concepts/Kernelization.md",
+    "Algorithms II Concepts/Problem kernel.md",
+    "Algorithms II Concepts/Crown.md",
+    "Algorithms II Algorithms/Crown Reduction.md",
     "Algorithms II Concepts/Randomized Rounding.md",
     "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
     "Algorithms II Concepts/Derandomization.md",
     "Algorithms II Concepts/Randomization.md",
-    "Pasted image 20241216132149.png",
-    "Pasted image 20241216132055.png",
-    "Pasted image 20241216131816.png",
-    "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
-    "Pasted image 20241216131101.png",
-    "Pasted image 20241216130828.png",
-    "Pasted image 20241216130746.png",
-    "Pasted image 20241216130706.png",
-    "Algorithms II Concepts/Multiway Vertex Cut.md",
-    "Pasted image 20241216130513.png",
-    "Pasted image 20241216125845.png",
-    "Algorithms II Concepts/Dual.md",
-    "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
     "Algorithms II Concepts/Extreme Point Solution.md",
+    "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
+    "Images/Pasted image 20241216132913.png",
+    "Images/Pasted image 20241216132721.png",
+    "Images/Pasted image 20241216132149.png",
+    "Images/Pasted image 20241216132055.png",
+    "Images/Pasted image 20241216131816.png",
+    "Images/Pasted image 20241216131101.png",
+    "Images/Pasted image 20241216130828.png",
+    "Images/Pasted image 20241216130746.png",
+    "Images/Pasted image 20241216130706.png",
+    "Images/Pasted image 20241216130513.png",
+    "Algorithms II Concepts/Multiway Vertex Cut.md",
+    "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Concepts/Relaxed Complementary Slackness.md",
     "Algorithms II Concepts/Half-integrality.md",
@@ -291,9 +237,6 @@
     "Algorithms II Algorithms/Maximum Independent Set Branching.md",
     "Quantum Computation/Final Exam.md",
     "Quantum Computation/Assignment 3.md",
-    "Algorithms II Concepts/Branching vector.md",
-    "Algorithms II Concepts/Branching.md",
-    "Algorithms II Algorithms/Steiner Tree DP.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

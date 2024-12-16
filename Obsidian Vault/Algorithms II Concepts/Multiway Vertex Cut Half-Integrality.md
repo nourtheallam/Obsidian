@@ -19,18 +19,18 @@ When looking at the path $P$ between two terminals, you will always encounter at
 Therefore, 
 ![[Pasted image 20241216130513.png]]
 
-We also **claim** that it is an optimal solution. We shall prove this using complementary slackness. 
+We also **claim** that it is an optimal solution. We shall prove this using [[Complementary Slackness]]. 
 
 **Primal:**
 
 ![[Pasted image 20241216130706.png]]
 
-**Dual:**
+**[[Dual]]:**
 
 ![[Pasted image 20241216130746.png]]
 
 
-Our **complementary slackness** conditions are: 
+Our **[[Complementary Slackness]]** conditions are: 
 ![[Pasted image 20241216130828.png]]
 
 Observe that 

@@ -750,6 +750,7 @@ simplest
 smallest
 solely
 saw
+seem
 that
 the
 time
@@ -1096,6 +1097,8 @@ trickles
 termination
 triple
 terminals
+types
+techniques
 Schrödinger
 Same
 Since
@@ -1795,6 +1798,7 @@ exercises
 employed
 extreme
 efficiently
+easily
 can
 components
 call
@@ -2238,6 +2242,8 @@ cool
 couldn
 corner
 component
+counterintuitive
+choices
 be
 both
 by
@@ -3289,6 +3295,7 @@ daL
 decrease
 description
 dynamic
+deterministic
 and
 above
 as
@@ -3970,6 +3977,7 @@ litres
 lifting
 looking
 lastly
+low
 us
 unlike
 up
@@ -4290,6 +4298,7 @@ uYo
 usu
 usage
 undirected
+useful
 which
 written
 we
@@ -5641,6 +5650,7 @@ moK
 mCG
 might
 multiway
+max
 of
 one
 only
@@ -5983,6 +5993,7 @@ oDe
 ohU
 oDt
 operate
+often
 return
 respective
 returns
@@ -6385,6 +6396,10 @@ repetitiveness
 really
 recursively
 region
+rise
+randomization
+randomized
+rounding
 value
 values
 variables
@@ -7196,6 +7211,7 @@ gsO
 gave
 great
 giving
+guessing
 In
 Infinite
 Inside
@@ -7798,6 +7814,7 @@ qnp
 qdeM
 qgU
 qPj
+quickly
 Using
 Unitary
 Unitaries
@@ -8657,6 +8674,7 @@ fsZ
 fCY
 forest
 forth
+failure
 proves
 probabilities
 probability
@@ -9907,6 +9925,7 @@ CyP
 COI
 Compute
 Checkout
+CANNOT
 Expectation
 Example
 Enter
@@ -12914,6 +12933,7 @@ PyH
 PoK
 PUSH
 Proofs
+Primal
 Given
 GxsZcXFx
 GUYRrDpuz
@@ -14633,6 +14653,7 @@ DdJ
 DPj
 DOE
 Determining
+Dual
 MfujfQu
 MB
 Mc
@@ -14983,6 +15004,7 @@ MMA
 Mla
 MgO
 MNs
+Make
 XvL
 XebNHu
 XdJl

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Half-Integrality.md",
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertex Cover Half-Integrality"
+              "title": "Relaxed Complementary Slackness"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Half-Integrality.md",
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vertex Cover Half-Integrality"
+              "title": "Backlinks for Relaxed Complementary Slackness"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Half-Integrality.md",
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vertex Cover Half-Integrality"
+              "title": "Outgoing links from Relaxed Complementary Slackness"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Half-Integrality.md"
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vertex Cover Half-Integrality"
+              "title": "Outline of Relaxed Complementary Slackness"
             }
           },
           {
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7abc73d0d427d6d",
+  "active": "930f36b14cf2b6bb",
   "lastOpenFiles": [
-    "Algorithms II Concepts/Extreme Point Solution.md",
     "Algorithms II Algorithms/Vertex Cover Half-Integrality.md",
+    "Algorithms II Concepts/Extreme Point Solution.md",
     "Algorithms II Concepts/Half-integrality.md",
     "Algorithms II Algorithms/Cluster Editing Branching.md",
     "Algorithms II Concepts/Branching number.md",

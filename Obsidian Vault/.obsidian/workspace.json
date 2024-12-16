@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Branching.md",
+                "file": "Algorithms II Algorithms/Cluster Editing Branching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertex Cover Branching"
+              "title": "Cluster Editing Branching"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Branching.md",
+                "file": "Algorithms II Algorithms/Cluster Editing Branching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vertex Cover Branching"
+              "title": "Backlinks for Cluster Editing Branching"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Branching.md",
+                "file": "Algorithms II Algorithms/Cluster Editing Branching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vertex Cover Branching"
+              "title": "Outgoing links from Cluster Editing Branching"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Vertex Cover Branching.md"
+                "file": "Algorithms II Algorithms/Cluster Editing Branching.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vertex Cover Branching"
+              "title": "Outline of Cluster Editing Branching"
             }
           },
           {
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +186,16 @@
   },
   "active": "b7abc73d0d427d6d",
   "lastOpenFiles": [
-    "Algorithms II Algorithms/Maximum Independent Set Branching.md",
     "Algorithms II Concepts/Branching number.md",
+    "Algorithms II Algorithms/Cluster Editing Branching.md",
+    "Pasted image 20241216110252.png",
+    "Pasted image 20241216110120.png",
+    "Algorithms II Algorithms/Cluster Editing Reduction.md",
+    "Algorithms II Concepts/Combining Recursive Calls.md",
+    "Algorithms II Algorithms/Vertex Cover Branching Better.md",
+    "Algorithms II Concepts/Depth-Bounded Search.md",
     "Algorithms II Algorithms/Vertex Cover Branching.md",
+    "Algorithms II Algorithms/Maximum Independent Set Branching.md",
     "Quantum Computation/Final Exam.md",
     "Quantum Computation/Assignment 3.md",
     "Algorithms II Concepts/Branching vector.md",
@@ -209,20 +215,12 @@
     "Pasted image 20241215205045.png",
     "Pasted image 20241215195936.png",
     "Pasted image 20241215194658.png",
-    "Pasted image 20241215194600.png",
-    "Pasted image 20241215194301.png",
     "Algorithms II Algorithms/General Maximum-Cardinality Matching.md",
     "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
     "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
     "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
-    "Algorithms II Concepts/Complementary Slackness.md",
-    "Algorithms II Concepts/Dual.md",
-    "Algorithms II Concepts/Primal-Dual Schema.md",
-    "Algorithms II Concepts/Strong Duality.md",
-    "Algorithms II Concepts/Dual Fitting.md",
-    "Algorithms II Concepts/Complete Bipartite Graph.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

@@ -1,0 +1,1 @@
+Combining the ideas of [[Parametrized]] algorithms and branching, we make sure that each recursive call has an instance $(G_{i}, k_{i})$ with $k_{i} = k-b_{i}$ with $b_{i}$ being the branching vector.

@@ -748,6 +748,8 @@ said
 subproblem
 simplest
 smallest
+solely
+saw
 that
 the
 time
@@ -1092,6 +1094,7 @@ tMD
 tmt
 trickles
 termination
+triple
 Schrödinger
 Same
 Since
@@ -1788,6 +1791,7 @@ eQR
 exK
 edD
 exercises
+employed
 can
 components
 call
@@ -4276,6 +4280,7 @@ uDU
 ura
 uYo
 usu
+usage
 which
 written
 we
@@ -5967,6 +5972,7 @@ oQy
 oDe
 ohU
 oDt
+operate
 return
 respective
 returns
@@ -7178,6 +7184,7 @@ gow
 gsO
 gave
 great
+giving
 In
 Infinite
 Inside
@@ -7491,6 +7498,7 @@ IKv
 ITc
 ItO
 Instead
+INCOMPLETE
 quantum
 qBcf
 qFyOlOebVKg
@@ -9887,6 +9895,7 @@ CIk
 CyP
 COI
 Compute
+Checkout
 Expectation
 Example
 Enter

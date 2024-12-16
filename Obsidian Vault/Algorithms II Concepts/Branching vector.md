@@ -1,0 +1,1 @@
+If an input of size $n$ makes $t \geq 2$ choices, each bounded by $n- b_1, n - b_2, \ldots, n - b_t$, then the [[Branching]] vector is $(b_1, b_2, \ldots, b_t)$.

@@ -1,4 +1,4 @@
-We can compute the Steiner tree of a subset $K$ through the following steps: 
+We can compute the [[Steiner Tree]] of a subset $K$ through the following steps: 
 
 1. Calculate all possible subsets of $V$
 2. For all subsets $V' \supseteq K$, calculating the MST of $V'$ (in polynomial time). 

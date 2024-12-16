@@ -3,11 +3,11 @@ First, we want to transform the input such that every vertex that needs to be in
 
 We do this by creating a twin for each vertex $v \in K$, and connecting each pair of twins by and edge of weight $0$. This transformed graph is called $(G',K')$. 
 
-**Claim:** $T$ is a solution to the Steiner tree problem for $(G,k)$ $\iff$ $T' = T \cap \{ (v,v ') | v \in K \}$ is a solution of the Steiner tree problem for $(G',K')$ where $w(T) = w(T')$. 
+**Claim:** $T$ is a solution to the [[Steiner Tree]] problem for $(G,k)$ $\iff$ $T' = T \cap \{ (v,v ') | v \in K \}$ is a solution of the [[Steiner Tree]] problem for $(G',K')$ where $w(T) = w(T')$. 
 
 **Proof:**
 
-If $T$ is a Steiner tree for $G$, then it contains all the vertices in $K$. So, $T'$ would be a Steiner tree, too, and it contains all the vertices in $K$. If we were to remove all vertices in $K'$ from $T'$ to get $T'[v]$, then $T'[v]$ would be a tree that contains all vertices in $K$, which would make it a Steiner tree of $K$, still.
+If $T$ is a [[Steiner Tree]] for $G$, then it contains all the vertices in $K$. So, $T'$ would be a [[Steiner Tree]], too, and it contains all the vertices in $K$. If we were to remove all vertices in $K'$ from $T'$ to get $T'[v]$, then $T'[v]$ would be a tree that contains all vertices in $K$, which would make it a [[Steiner Tree]] of $K$, still.
 
 $w(T) = w(T')$ because all the edges between twins are of weight $0$. 
 

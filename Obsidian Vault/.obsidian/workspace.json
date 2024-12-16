@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56bac33196ff14e4",
+        "id": "afceadf1e5f816f8",
         "type": "tabs",
         "children": [
           {
-            "id": "525fe9034078e32c",
+            "id": "b7abc73d0d427d6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Steiner Tree DP.md",
+                "file": "Algorithms II Algorithms/Vertex Cover Branching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steiner Tree DP"
+              "title": "Vertex Cover Branching"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Steiner Tree DP.md",
+                "file": "Algorithms II Algorithms/Vertex Cover Branching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Steiner Tree DP"
+              "title": "Backlinks for Vertex Cover Branching"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Steiner Tree DP.md",
+                "file": "Algorithms II Algorithms/Vertex Cover Branching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Steiner Tree DP"
+              "title": "Outgoing links from Vertex Cover Branching"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Steiner Tree DP.md"
+                "file": "Algorithms II Algorithms/Vertex Cover Branching.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Steiner Tree DP"
+              "title": "Outline of Vertex Cover Branching"
             }
           },
           {
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,12 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21cfae441f31f4b7",
+  "active": "b7abc73d0d427d6d",
   "lastOpenFiles": [
+    "Algorithms II Algorithms/Maximum Independent Set Branching.md",
+    "Algorithms II Concepts/Branching number.md",
+    "Algorithms II Algorithms/Vertex Cover Branching.md",
+    "Quantum Computation/Final Exam.md",
+    "Quantum Computation/Assignment 3.md",
+    "Algorithms II Concepts/Branching vector.md",
+    "Algorithms II Concepts/Branching.md",
+    "Algorithms II Algorithms/Steiner Tree DP.md",
     "Pasted image 20241216010616.png",
     "Pasted image 20241216010451.png",
     "Algorithms II Algorithms/Steiner Tree Simple.md",
-    "Algorithms II Algorithms/Steiner Tree DP.md",
     "Algorithms II Concepts/Steiner Tree.md",
     "Algorithms II Algorithms/Travelling Salesman Dynamic Programming.md",
     "Pasted image 20241216001433.png",
@@ -206,7 +214,6 @@
     "Algorithms II Algorithms/General Maximum-Cardinality Matching.md",
     "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
-    "Images/Pasted image 20241215170239.png",
     "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
     "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
@@ -216,12 +223,6 @@
     "Algorithms II Concepts/Strong Duality.md",
     "Algorithms II Concepts/Dual Fitting.md",
     "Algorithms II Concepts/Complete Bipartite Graph.md",
-    "Algorithms II Concepts/Perfect matching.md",
-    "Algorithms II Algorithms/Alternating BFS.md",
-    "Algorithms II Concepts/Alternating Forest.md",
-    "Algorithms II Concepts/Matching.md",
-    "Algorithms II Concepts/Augmenting Path.md",
-    "Algorithms II Algorithms/Maximal matching.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

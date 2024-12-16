@@ -1,4 +1,4 @@
-**Claim:** Any extreme-point solution of the LP relaxation of vertex cover is half-integral. 
+**Claim:** Any extreme-point solution of the LP relaxation of [[Vertex Cover]] is half-integral. 
 **Proof:** Assume $\tilde{x}$ is a feasible solution with $\hat{x}_{v}$ being **NOT** half-integral.
 
 Let $\delta$ be the minimum between $\tilde{x}_{v}$, the **difference in magnitude** between $\tilde{x}_{v}$ and $1$, and that between it and $\frac{1}{2}$. 

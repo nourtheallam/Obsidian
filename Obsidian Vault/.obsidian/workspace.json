@@ -34,8 +34,65 @@
               "icon": "lucide-file",
               "title": "Extreme Point Solution"
             }
+          },
+          {
+            "id": "bdd711ce4886bc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms II Concepts/Randomization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Randomization"
+            }
+          },
+          {
+            "id": "0d2089ba7acf4b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms II Concepts/Derandomization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derandomization"
+            }
+          },
+          {
+            "id": "37638f60594151d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAX-SAT Randomized Rounding"
+            }
+          },
+          {
+            "id": "70dce578f27a8acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms II Concepts/Randomized Rounding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Randomized Rounding"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
+                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Multiway Vertex Cut Half-Integrality"
+              "title": "Backlinks for MAX-SAT Randomized Rounding"
             }
           },
           {
@@ -126,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
+                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Multiway Vertex Cut Half-Integrality"
+              "title": "Outgoing links from MAX-SAT Randomized Rounding"
             }
           },
           {
@@ -153,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md"
+                "file": "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Multiway Vertex Cut Half-Integrality"
+              "title": "Outline of MAX-SAT Randomized Rounding"
             }
           },
           {
@@ -184,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,25 +256,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7abc73d0d427d6d",
+  "active": "37638f60594151d8",
   "lastOpenFiles": [
-    "Pasted image 20241216125739.png",
-    "Pasted image 20241216125532.png",
-    "Algorithms II Concepts/Dual.md",
+    "Pasted image 20241216132913.png",
+    "Pasted image 20241216132721.png",
+    "Algorithms II Concepts/Randomized Rounding.md",
+    "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+    "Algorithms II Concepts/Derandomization.md",
+    "Algorithms II Concepts/Randomization.md",
+    "Pasted image 20241216132149.png",
+    "Pasted image 20241216132055.png",
+    "Pasted image 20241216131816.png",
     "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
+    "Pasted image 20241216131101.png",
+    "Pasted image 20241216130828.png",
+    "Pasted image 20241216130746.png",
+    "Pasted image 20241216130706.png",
     "Algorithms II Concepts/Multiway Vertex Cut.md",
-    "Pasted image 20241216124943.png",
+    "Pasted image 20241216130513.png",
+    "Pasted image 20241216125845.png",
+    "Algorithms II Concepts/Dual.md",
     "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
     "Algorithms II Concepts/Extreme Point Solution.md",
-    "Pasted image 20241216124107.png",
     "Algorithms II Algorithms/Edmonds-Karp.md",
-    "Pasted image 20241216123551.png",
     "Algorithms II Concepts/Relaxed Complementary Slackness.md",
     "Algorithms II Concepts/Half-integrality.md",
     "Algorithms II Algorithms/Cluster Editing Branching.md",
     "Algorithms II Concepts/Branching number.md",
-    "Pasted image 20241216110252.png",
-    "Pasted image 20241216110120.png",
     "Algorithms II Algorithms/Cluster Editing Reduction.md",
     "Algorithms II Concepts/Combining Recursive Calls.md",
     "Algorithms II Algorithms/Vertex Cover Branching Better.md",
@@ -228,14 +294,6 @@
     "Algorithms II Concepts/Branching vector.md",
     "Algorithms II Concepts/Branching.md",
     "Algorithms II Algorithms/Steiner Tree DP.md",
-    "Pasted image 20241216010616.png",
-    "Pasted image 20241216010451.png",
-    "Algorithms II Algorithms/Steiner Tree Simple.md",
-    "Algorithms II Concepts/Steiner Tree.md",
-    "Algorithms II Algorithms/Travelling Salesman Dynamic Programming.md",
-    "Pasted image 20241216001433.png",
-    "Algorithms II Concepts/Dynamic Programming.md",
-    "Pasted image 20241215205126.png",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

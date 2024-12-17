@@ -73,4 +73,6 @@ This implies that
 $$\sum_{v\in P'} \tilde{x}_{v} \leq \sum_{v\in P} \tilde{x}_{v} - \tilde{x}_{v} <  \sum_{v\in P} \tilde{x}_{v} = 1$$
 (because we are assuming that $\hat{y}_{P} > 0$ and $\sum_{v \in P}\tilde{x}_{v} = 1$)
 
-Which is a contradiction because $\tilde{x}$ is feasible and optimal. This means that there can be at most two vertices form $Q_{1}$ on a path $P$ when $y_{P} > 0$. And if this is the case, then the value of $\sum_{v \in P}\hat{x}_{v} = 1$, which also satisfies 
+Which is a contradiction because $\tilde{x}$ is feasible and optimal. This means that there can be at most two vertices form $Q_{1}$ on a path $P$ when $y_{P} > 0$. And if this is the case, then the value of $\sum_{v \in P}\hat{x}_{v} = 1$, which also satisfies complementary slackness. 
+
+Therefore, since $\hat{x}$ satisfies complementary slackness with $\hat{y}$, then it must be true that $\hat{x}$ is optimal. 

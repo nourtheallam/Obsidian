@@ -31,4 +31,17 @@ The way we define $\pi'$ implies that
 - $\pi'_{u} + \pi'_{w} \leq c_{u,w}$ if $u \in X$, $w \in Y$
 - $\pi'_{u} + \pi'_{w} = c_{u,w}$ if $u \in X, w \in \bar{Y}$
 
-2. Adjustment always increases the number of vertices in the alternating forest.
+2. Adjustment always increases the number of edges in the alternating forest.
+
+Since we add $\delta$ to one of $\pi_{u}, \pi_{w}$ and remove it from the other for $u \in X, w \in Y$, we can see that $\pi_{u} + \pi_{w} = \pi_{u}' + \pi_{w}'$, and therefore, they would be included in the new alternating forest.
+
+If $u \in X, w \in \bar{Y}$, then the edge is defined as tight, which makes sure that it is in the alternating forest.
+
+
+##### Running time 
+
+- We will run this whole routine (phase) $O(n)$ times $=$ size of a perfect matching
+- Each phase: 
+	- We construct alternating forest in $O(n+m)$
+	- We adjust in $O(n)$
+	- We adjust $O(n^2)$ times.

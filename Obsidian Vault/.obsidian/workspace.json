@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
+                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bipartite Minimum-Weight Perfect Matching LP"
+              "title": "The Hungarian Algorithm"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
+                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bipartite Minimum-Weight Perfect Matching LP"
+              "title": "Backlinks for The Hungarian Algorithm"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
+                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bipartite Minimum-Weight Perfect Matching LP"
+              "title": "Outgoing links from The Hungarian Algorithm"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md"
+                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bipartite Minimum-Weight Perfect Matching LP"
+              "title": "Outline of The Hungarian Algorithm"
             }
           },
           {
@@ -202,6 +202,7 @@
   },
   "active": "42de871b795ce4f7",
   "lastOpenFiles": [
+    "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
     "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
     "Images/Pasted image 20241215013755.png",
@@ -237,7 +238,6 @@
     "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Concepts/Relaxed Complementary Slackness.md",
     "Algorithms II Concepts/Half-integrality.md",
-    "Algorithms II Algorithms/Cluster Editing Branching.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

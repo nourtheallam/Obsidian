@@ -1,40 +1,20 @@
 {
   "main": {
-    "id": "8d60522672f3c1dc",
+    "id": "374e8e95bec1942b",
     "type": "split",
     "children": [
       {
-        "id": "b8809b62870e71f6",
+        "id": "832548e1bab85522",
         "type": "tabs",
         "children": [
           {
-            "id": "eb58113aa47bce89",
+            "id": "eb4b1db5878065d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cef8d7a940eaeedc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a28d7937e4c4121",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -43,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "25cc4286937c437e",
+    "id": "dcebc96c9490d61e",
     "type": "split",
     "children": [
       {
-        "id": "73c84604ac47f2cb",
+        "id": "71d3df9415979214",
         "type": "tabs",
         "children": [
           {
-            "id": "24aad6b57340f531",
+            "id": "930f36b14cf2b6bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +43,7 @@
             }
           },
           {
-            "id": "d3a23a1e0bf2a856",
+            "id": "9a5772885e39e677",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +60,7 @@
             }
           },
           {
-            "id": "d61a97c43db73e84",
+            "id": "3d6aa0a9b15041d4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +73,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "8c05e4e2e4d2c207",
+    "id": "60fee83eced315d6",
     "type": "split",
     "children": [
       {
-        "id": "fb2a1586b8585aaa",
+        "id": "02b52edefac7516e",
         "type": "tabs",
         "children": [
           {
-            "id": "997e9d8377ddea81",
+            "id": "ab5f34abf1628664",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "5e34d2c440487f8c",
+            "id": "8f86bb6834a05479",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "53a5afe26b4d19d1",
+            "id": "4e728dfa582bdda7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,18 +128,37 @@
             }
           },
           {
-            "id": "fa66a1fd31d79ea4",
+            "id": "05208368f219fc2f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "21a958bdf1f4ba4d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "21cfae441f31f4b7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,8 +175,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb58113aa47bce89",
+  "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Algorithms II Algorithms/Preflow-Push.md",
+    "Algorithms II Concepts/Kernelization.md",
+    "Algorithms II Algorithms/Vertex Cover Branching.md",
+    "Algorithms II Algorithms/Vertex Cover Branching Better.md",
+    "Algorithms II Concepts/Dual.md",
+    "Algorithms II Concepts/Problem kernel.md",
+    "Algorithms II Concepts/Crown.md",
+    "Algorithms II Algorithms/Crown Reduction.md",
+    "Algorithms II Concepts/Randomized Rounding.md",
+    "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+    "Algorithms II Concepts/Derandomization.md",
+    "Algorithms II Concepts/Randomization.md",
+    "Algorithms II Concepts/Extreme Point Solution.md",
+    "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
+    "Images/Pasted image 20241216132913.png",
+    "Images/Pasted image 20241216132721.png",
+    "Images/Pasted image 20241216132149.png",
+    "Images/Pasted image 20241216132055.png",
+    "Images/Pasted image 20241216131816.png",
+    "Images/Pasted image 20241216131101.png",
+    "Images/Pasted image 20241216130828.png",
+    "Images/Pasted image 20241216130746.png",
+    "Images/Pasted image 20241216130706.png",
+    "Images/Pasted image 20241216130513.png",
+    "Algorithms II Concepts/Multiway Vertex Cut.md",
+    "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
+    "Algorithms II Algorithms/Edmonds-Karp.md",
+    "Algorithms II Concepts/Relaxed Complementary Slackness.md",
+    "Algorithms II Concepts/Half-integrality.md",
+    "Algorithms II Algorithms/Cluster Editing Branching.md",
+    "Algorithms II Concepts/Branching number.md",
+    "Algorithms II Algorithms/Cluster Editing Reduction.md",
+    "Algorithms II Concepts/Combining Recursive Calls.md",
+    "Algorithms II Concepts/Depth-Bounded Search.md",
+    "Algorithms II Algorithms/Maximum Independent Set Branching.md",
+    "Quantum Computation/Final Exam.md",
+    "Algorithms II Algorithms",
+    "Images",
+    "untitled folder",
+    "Algorithms II Concepts",
+    "CDS",
+    "Algorithms II Assignments",
+    "Untitled.canvas",
+    "Quantum I"
   ]
 }

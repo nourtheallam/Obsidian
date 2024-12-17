@@ -1,0 +1,1 @@
+**Idea:** We can obtain a solution to the vertex cover problem by first finding an extreme point solution to it.

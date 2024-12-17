@@ -1,0 +1,1 @@
+As a consequence of [[Weak LP duality]], the largest the objective function value of a feasible solution to the primal is going to be the smallest that the objective function value of a feasible solution to the dual can be. 

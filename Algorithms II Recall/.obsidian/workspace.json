@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertex cover half-integrality.md",
+                "file": "Weak LP duality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertex cover half-integrality"
+              "title": "Weak LP duality"
             }
           },
           {
@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiway Vertex Cut Randomized Rounding.md",
+                "file": "Multiway vertex cut randomized rounding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiway Vertex Cut Randomized Rounding"
+              "title": "Multiway vertex cut randomized rounding"
             }
           },
           {
-            "id": "1fdfe82a03497252",
+            "id": "65e7c61f1ad605f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LP Duality.md",
+                "file": "Multiway vertex cut randomized rounding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LP Duality"
+              "title": "Multiway vertex cut randomized rounding"
             }
           }
         ],
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,13 +221,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fdfe82a03497252",
+  "active": "65e7c61f1ad605f1",
   "lastOpenFiles": [
-    "Multiway Vertex Cut Randomized Rounding.md",
-    "LP Duality.md",
+    "Complementary slackness.md",
+    "Strong LP duality.md",
+    "Weak LP duality.md",
+    "Vertex cover half-integrality.md",
+    "Multiway vertex cut randomized rounding.md",
+    "LP duality.md",
     "Attachments/Pasted image 20241217143819.png",
     "Attachments/Pasted image 20241217143728.png",
-    "Vertex cover half-integrality.md",
     "Attachments/Pasted image 20241217141338.png",
     "Half-integral.md",
     "Attachments/Pasted image 20241217141138.png",
@@ -256,8 +260,6 @@
     "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Concepts/Relaxed Complementary Slackness.md",
-    "Algorithms II Concepts/Half-integrality.md",
-    "Algorithms II Algorithms/Cluster Editing Branching.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

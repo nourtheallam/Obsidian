@@ -4,7 +4,7 @@
 
 **Claim:** Any [[Extreme point solution]] of the vertex cover problem is [[Half-integral]]. 
 **Proof:** 
-	**Idea:** We want to show that if $\hat{x}$ is a solution such that $\exists \ \hat{x}_{v}$ that is ==not== a multiple of $\frac{1}{2}$, then $\hat{x}$ ==cannot be an extreme point solution.==
+	**Idea:** We want to show that if $\hat{x}$ is a solution such that $\exists \ \hat{x}_{v}$ that is ==not== a multiple of $\frac{1}{2}$, then $\hat{x}$ ==cannot be an [[Extreme point solution]].==
 
 Define $\hat{y},  \hat{z}$ as the following
 $$\hat y_v = \begin{cases}\hat x_v - \epsilon & \text{if } 0 < \hat x_v < \frac{1}{2}\\\hat x_v + \epsilon & \text{if } \frac{1}{2} < \hat x_v < 1\\\hat x_v & \text{otherwise}\end{cases}$$

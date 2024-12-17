@@ -7,7 +7,7 @@
 
 **Steps:**
 
-**Claim:** A ==feasible== half-integral solution to the multiway vertex cut is defined as follows
+**Claim:** A ==feasible== [[Half-integral]] solution to the multiway vertex cut is defined as follows
 
 Given the following labels
 
@@ -32,5 +32,12 @@ Which would also sum up to $\geq 1$.
 **Claim:** $\hat{x}$ is optimal
 
 **Proof:** 
-	**Idea:** We will use complimentary slackness. Show that the dual is feasible, and that they both maintain complementary slackness. 
+	**Idea:** We will show that they both maintain [[Complementary slackness]], which ==automatically implies== that they are both optimal.
 
+Consider the following primal and dual
+
+$$
+\begin{gathered}<br>\text{Minimize } \sum_{v \in V \setminus T} w_vx_v\\<br>\begin{aligned}<br>\text{s.t. } \sum_{v \in P} x_v &\ge 1 && \forall P \in \mathcal{P}\\<br>x_v &\in \{0, 1\} && \forall v \in V \setminus T,<br>\end{aligned}<br>\end{gathered}
+$$
+
+ 1. If $\hat{x}_{v} > 0$ then 

@@ -65,3 +65,12 @@ Which contradicts the complementary slackness condition observed by $(2)$.
 
 Therefore, there is always ==exactly one== vertex from $Q_{2}$ in a path $P$ between two terminals if $\hat{y}_{P} > 0$, which means that $\hat{x} = 1$ will be satisfied (due to our definition of $\hat{x}$).
 
+Next, consider if there were no vertices from $Q_{2}$ in the path but more than two vertices from $Q_{1}$, and let $z$ be the closest boundary vertex to $t_{h}$. 
+
+![[Pasted image 20241217164143.png]]
+
+This implies that 
+$$\sum_{v\in P'} \tilde{x}_{v} \leq \sum_{v\in P} \tilde{x}_{v} - \tilde{x}_{v} <  \sum_{v\in P} \tilde{x}_{v} = 1$$
+(because we are assuming that $\hat{y}_{P} > 0$ and $\sum_{v \in P}\tilde{x}_{v} = 1$)
+
+Which is a contradiction because $\tilde{x}$ is feasible and optimal. This means that there can be at most two vertices form $Q_{1}$ on a path $P$ when $y_{P} > 0$. And if this is the case, then the value of $\sum_{v \in P}\hat{x}_{v} = 1$, which also satisfies 

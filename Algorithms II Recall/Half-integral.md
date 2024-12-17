@@ -1,1 +1,1 @@
-All the values in this solution are multiples of 
+All the values in this solution are multiples of $\frac{1}{2}$.

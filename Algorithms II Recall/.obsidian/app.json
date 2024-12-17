@@ -8,5 +8,6 @@
   },
   "vimMode": true,
   "showRibbon": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments"
 }

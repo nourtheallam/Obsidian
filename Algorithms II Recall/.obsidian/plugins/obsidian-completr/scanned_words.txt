@@ -305,6 +305,10 @@ AND
 ARE
 Adjust
 Adjustment
+All
+AHS
+AjZ
+APR
 showing
 separated
 space
@@ -751,6 +755,9 @@ smallest
 solely
 saw
 seem
+sgS
+sMAf
+sAq
 that
 the
 time
@@ -1099,6 +1106,10 @@ triple
 terminals
 types
 techniques
+twm
+taF
+tPnt
+tZl
 Schrödinger
 Same
 Since
@@ -1399,6 +1410,8 @@ STD
 SNz
 Smz
 Sorry
+SZW
+StC
 equation
 equal
 energy
@@ -1799,6 +1812,8 @@ employed
 extreme
 efficiently
 easily
+eShS
+ewR
 can
 components
 call
@@ -2244,6 +2259,11 @@ corner
 component
 counterintuitive
 choices
+cvJ
+cRgrX
+cCKx
+cZnJ
+choosing
 be
 both
 by
@@ -2520,6 +2540,9 @@ bTAA
 beforehand
 bouncing
 boundary
+byKs
+bNd
+bRSw
 into
 is
 independent
@@ -2928,6 +2951,7 @@ inspect
 isolated
 importantly
 incomplete
+irG
 depedent
 dependent
 definite
@@ -3296,6 +3320,8 @@ decrease
 description
 dynamic
 deterministic
+dHPG
+dZF
 and
 above
 as
@@ -3663,6 +3689,8 @@ among
 adjust
 augment
 anything
+aFY
+aCBJ
 let
 linear
 line
@@ -3978,6 +4006,8 @@ lifting
 looking
 lastly
 low
+lWZv
+lza
 us
 unlike
 up
@@ -4299,6 +4329,8 @@ usu
 usage
 undirected
 useful
+uxI
+uJj
 which
 written
 we
@@ -4614,6 +4646,11 @@ wng
 wUT
 water
 wasn
+wÄ
+wNL
+wdm
+wMK
+wEY
 The
 Time
 Thus
@@ -4900,6 +4937,8 @@ TeP
 TRg
 Tight
 TSP
+TMg
+Taf
 have
 how
 homogenous
@@ -5180,6 +5219,7 @@ height
 heights
 haven
 hardness
+hDM
 meaning
 measurement
 mechanics
@@ -5651,6 +5691,8 @@ mCG
 might
 multiway
 max
+mFZ
+math
 of
 one
 only
@@ -5995,6 +6037,8 @@ oDt
 operate
 often
 overly
+ozi
+ozF
 return
 respective
 returns
@@ -6922,6 +6966,11 @@ HIV
 Hee
 HPe
 Hopcroft
+HXy
+HZPr
+HPVBM
+HPV
+HPf
 gives
 general
 give
@@ -7213,6 +7262,9 @@ gave
 great
 giving
 guessing
+gcfwf
+gLaz
+gLV
 In
 Infinite
 Inside
@@ -7527,6 +7579,9 @@ ITc
 ItO
 Instead
 INCOMPLETE
+Idea
+IDATuP
+IsP
 quantum
 qBcf
 qFyOlOebVKg
@@ -7816,6 +7871,8 @@ qdeM
 qgU
 qPj
 quickly
+qGs
+qLl
 Using
 Unitary
 Unitaries
@@ -8078,6 +8135,8 @@ UFcE
 UQz
 UjP
 UAW
+UWY
+UiEL
 note
 number
 not
@@ -8390,6 +8449,7 @@ nmX
 nnSz
 needs
 nice
+nxi
 for
 find
 function
@@ -8676,6 +8736,9 @@ fCY
 forest
 forth
 failure
+fjK
+fqF
+fND
 proves
 probabilities
 probability
@@ -9031,6 +9094,9 @@ pairing
 phases
 programming
 pessimistic
+pQY
+pSJlo
+pUZ
 When
 Well
 Which
@@ -9372,6 +9438,8 @@ WoV
 WXay
 WMGp
 Wwy
+WdMK
+WPr
 For
 First
 Finally
@@ -9629,6 +9697,8 @@ FzfaP
 FFH
 FMl
 Formulate
+FZR
+FAZ
 Coefficients
 Ctrl
 Consider
@@ -9928,6 +9998,9 @@ COI
 Compute
 Checkout
 CANNOT
+Cannot
+CFbHuA
+CPF
 Expectation
 Example
 Enter
@@ -10238,6 +10311,7 @@ EXWz
 Ewrw
 EdJ
 Else
+Ecr
 Note
 Next
 NDk
@@ -10482,6 +10556,8 @@ NÖ
 NPZ
 NtS
 NEVER
+NAI
+NDQ
 Let
 LP
 LYMDAralFY
@@ -10755,6 +10831,9 @@ LoO
 LsP
 LBb
 Lastly
+LZR
+LRm
+LUu
 Because
 Based
 BFS
@@ -11284,6 +11363,9 @@ QwHu
 QPuE
 Qwj
 QWx
+QFi
+Qjdoz
+QhW
 Our
 OTp
 OztJSUkhISFBQUEaGhouLi
@@ -11637,6 +11719,7 @@ OgtU
 OST
 OJAW
 OFl
+OyJM
 zeros
 zero
 zOV
@@ -11942,6 +12025,9 @@ zcTV
 zEz
 zlU
 zBs
+zpN
+zkC
+zZoAIX
 know
 keys
 kOmR
@@ -12337,6 +12423,8 @@ kua
 kWx
 kFU
 kept
+kWSZW
+kiJZ
 jump
 jhAF
 jRN
@@ -12625,6 +12713,7 @@ jku
 jROj
 jROc
 jKk
+jlH
 Postulate
 Proposition
 PjW
@@ -12936,6 +13025,10 @@ PoK
 PUSH
 Proofs
 Primal
+PSB
+PZs
+Pmv
+PwA
 Given
 GxsZcXFx
 GUYRrDpuz
@@ -13236,6 +13329,8 @@ Gtuk
 GMs
 GkH
 GRwg
+Glse
+GxX
 Recall
 RDu
 RN
@@ -13513,6 +13608,11 @@ RVYy
 RZN
 RELABEL
 RELABELLED
+RUf
+Rpk
+RlK
+RUF
+RkA
 KGgoAAAANSUhEUgAAANoAAADnCAMAAABPJ
 KpD
 KWoSoKZkwwuTLqNmuJDmYmo
@@ -13840,6 +13940,7 @@ KrN
 KVö
 KSr
 Karp
+KjU
 xcXEVFRUQEBA
 xboRmLPMvSd
 xomwkHdxOg
@@ -14140,6 +14241,8 @@ xhr
 xIUF
 xAia
 xDuh
+xAaQ
+xxP
 VcZ
 VsmWw
 VvcBK
@@ -14403,6 +14506,9 @@ VXq
 VVP
 VJE
 VOj
+VnIS
+VPD
+VqZ
 DJKx
 DIPvAAHPlhevlISe
 DS
@@ -14656,6 +14762,7 @@ DPj
 DOE
 Determining
 Dual
+DoM
 MfujfQu
 MB
 Mc
@@ -15007,6 +15114,9 @@ Mla
 MgO
 MNs
 Make
+MMK
+MDt
+MgF
 XvL
 XebNHu
 XdJl
@@ -15270,6 +15380,9 @@ XXx
 XZrM
 XxX
 XsA
+XVq
+XIp
+XqFoo
 JYAAc
 JWj
 JEpqWeS
@@ -15500,6 +15613,8 @@ JOc
 JOKO
 JqU
 JkC
+JCZ
+Jed
 YoPONLJKGGV
 YKwXReB
 YFlXYbqzdX
@@ -16125,6 +16240,10 @@ yks
 ypz
 ynz
 ylb
+yBDm
+yÄ
+yIL
+yad
 ZZ
 ZaI
 ZcnX

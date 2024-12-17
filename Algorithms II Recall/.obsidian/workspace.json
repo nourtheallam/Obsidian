@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65e7c61f1ad605f1",
+  "active": "e87905bbfa4b0ac0",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241217162822.png",
     "Multiway vertex cut half-integrality.md",
     "Strong LP duality.md",
     "Vertex cover half-integrality.md",
@@ -254,7 +255,6 @@
     "Algorithms II Concepts/Multiway Vertex Cut.md",
     "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
-    "Algorithms II Concepts/Relaxed Complementary Slackness.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

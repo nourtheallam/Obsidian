@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Concepts/Matching.md",
+                "file": "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matching"
+              "title": "Bipartite Maximum-Weight Matching"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "The Hungarian Algorithm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
+                "file": "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Hungarian Algorithm"
+              "title": "Backlinks for Bipartite Maximum-Weight Matching"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md",
+                "file": "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Hungarian Algorithm"
+              "title": "Outgoing links from Bipartite Maximum-Weight Matching"
             }
           },
           {
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/The Hungarian Algorithm.md"
+                "file": "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Hungarian Algorithm"
+              "title": "Outline of Bipartite Maximum-Weight Matching"
             }
           },
           {
@@ -200,16 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42de871b795ce4f7",
+  "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
-    "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
+    "Algorithms II Concepts/Matching.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
+    "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
     "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
     "Images/Pasted image 20241215013755.png",
     "Algorithms II Concepts/Alternating Forest.md",
     "Algorithms II Algorithms/Alternating BFS.md",
     "Algorithms II Algorithms/Steiner Tree DP.md",
-    "Algorithms II Concepts/Matching.md",
     "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Concepts/Kernelization.md",
     "Algorithms II Algorithms/Vertex Cover Branching.md",

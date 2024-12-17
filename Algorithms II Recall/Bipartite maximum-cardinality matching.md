@@ -8,7 +8,7 @@
 
 **Running time:** 
 
-- Constructing an alternating forest takes $O(n+m)$. 
+- Constructing an [[Alternating forest]] takes $O(n+m)$. 
 - We can get that down to $O(m)$ if we remove all isolated vertices beforehand.
 - It takes $O(n)$ time to look for an unmatched vertex in $W$ after each forest is constructed.
 - Since we need to add $O(m)$ edges to the matching, the overall running time is 

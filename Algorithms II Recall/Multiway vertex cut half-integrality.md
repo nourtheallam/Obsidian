@@ -46,7 +46,7 @@ $$\begin{gathered}\text{Maximize } \sum_{P \in \mathcal{P}} y_P\\\begin{aligned}
 
  1.  If $\hat{x}_{v} > 0$, then $\sum_{v \in P}\hat{y}_{P} = w_{v}$
 $$\hat{x}_{v} > 0 \implies v \in Q_{1} \cup Q_{2} \implies \tilde{x}_{v} > 0 \implies \sum_{v \in P}\hat{y}_{P} = w_{v}$$
-(Because $\hat{y}$ and $\tilde{x}$ must maintain complementary slackness).
+(Because $\hat{y}$ and $\tilde{x}$ must maintain [[Complementary slackness]]).
 
 2. If $\hat{y}_{P} > 0$ then $\sum_{v \in P} \hat{x}_{v} = 1$
 
@@ -61,7 +61,7 @@ Let $u \in Q_{2}$ be a vertex that lies on the path between two terminals and as
 
 By the first observation, we know that $\tilde{x_{u}} \geq 1$, and since $v$ is also a boundary vertex, we know that $\tilde{x}_{v} > 0$, which implies that
 $$\sum_{v \in P} \tilde{x}_{v} > 1$$
-Which contradicts the complementary slackness condition observed by $(2)$. 
+Which contradicts the [[Complementary slackness]] condition observed by $(2)$. 
 
 Therefore, there is always ==exactly one== vertex from $Q_{2}$ in a path $P$ between two terminals if $\hat{y}_{P} > 0$, which means that $\hat{x} = 1$ will be satisfied (due to our definition of $\hat{x}$).
 
@@ -73,6 +73,6 @@ This implies that
 $$\sum_{v\in P'} \tilde{x}_{v} \leq \sum_{v\in P} \tilde{x}_{v} - \tilde{x}_{v} <  \sum_{v\in P} \tilde{x}_{v} = 1$$
 (because we are assuming that $\hat{y}_{P} > 0$ and $\sum_{v \in P}\tilde{x}_{v} = 1$)
 
-Which is a contradiction because $\tilde{x}$ is feasible and optimal. This means that there can be at most two vertices form $Q_{1}$ on a path $P$ when $y_{P} > 0$. And if this is the case, then the value of $\sum_{v \in P}\hat{x}_{v} = 1$, which also satisfies complementary slackness. 
+Which is a contradiction because $\tilde{x}$ is feasible and optimal. This means that there can be at most two vertices form $Q_{1}$ on a path $P$ when $y_{P} > 0$. And if this is the case, then the value of $\sum_{v \in P}\hat{x}_{v} = 1$, which also satisfies [[Complementary slackness]]. 
 
-Therefore, since $\hat{x}$ satisfies complementary slackness with $\hat{y}$, then it must be true that $\hat{x}$ is optimal. 
+Therefore, since $\hat{x}$ satisfies [[Complementary slackness]] with $\hat{y}$, then it must be true that $\hat{x}$ is optimal. 

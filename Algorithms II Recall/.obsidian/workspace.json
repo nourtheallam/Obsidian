@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hungarian Algorithm.md",
+                "file": "Hungarian algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hungarian Algorithm"
+              "title": "Hungarian algorithm"
             }
           },
           {
@@ -260,8 +260,10 @@
   },
   "active": "3f3e9e85961f914e",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241217182918.png",
+    "Untitled.md",
+    "Hungarian algorithm.md",
     "Bipartite maximum-cardinality matching.md",
-    "Hungarian Algorithm.md",
     "Multiway vertex cut half-integrality.md",
     "Strong LP duality.md",
     "Vertex cover half-integrality.md",
@@ -292,8 +294,6 @@
     "Algorithms II Concepts/Randomized Rounding.md",
     "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
     "Algorithms II Concepts/Derandomization.md",
-    "Algorithms II Concepts/Randomization.md",
-    "Algorithms II Concepts/Extreme Point Solution.md",
     "Images/Pasted image 20241216132913.png",
     "Images/Pasted image 20241216132721.png",
     "Images/Pasted image 20241216132149.png",

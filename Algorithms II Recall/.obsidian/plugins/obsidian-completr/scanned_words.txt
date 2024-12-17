@@ -2959,6 +2959,7 @@ isolated
 importantly
 incomplete
 irG
+idea
 depedent
 dependent
 definite
@@ -8754,6 +8755,7 @@ failure
 fjK
 fqF
 fND
+formulate
 proves
 probabilities
 probability
@@ -15135,6 +15137,7 @@ Make
 MMK
 MDt
 MgF
+Main
 XvL
 XebNHu
 XdJl

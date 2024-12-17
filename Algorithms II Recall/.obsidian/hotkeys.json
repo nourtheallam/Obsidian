@@ -59,5 +59,14 @@
       "key": "H"
     }
   ],
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ]
 }

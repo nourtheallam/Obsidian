@@ -81,10 +81,14 @@
             "id": "b57f426ab7e18230",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Complementary slackness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complementary slackness"
             }
           },
           {
@@ -241,9 +245,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Complementary slackness.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Complementary slackness"
             }
           },
           {
@@ -298,6 +304,8 @@
   },
   "active": "b57f426ab7e18230",
   "lastOpenFiles": [
+    "Weak LP duality.md",
+    "Strong LP duality.md",
     "Edmonds's Algorithm.md",
     "Edmond's Algorithm.md",
     "Attachments/Pasted image 20241217221602.png",
@@ -315,11 +323,9 @@
     "Matching.md",
     "Primal-dual schema.md",
     "Complementary slackness.md",
-    "Weak LP duality.md",
     "Untitled 1.md",
     "Bipartite maximum-cardinality matching.md",
     "Multiway vertex cut half-integrality.md",
-    "Strong LP duality.md",
     "Vertex cover half-integrality.md",
     "Alternating BFS.md",
     "Alternating forest.md",

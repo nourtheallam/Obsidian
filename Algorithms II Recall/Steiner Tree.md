@@ -10,6 +10,11 @@ A **naive** approach would be to compute all possible minimum spanning trees of 
 
 - We choose to **parameterize the algorithm** with $k$ being the size of the set of terminals $|T|$.
 - Moreover, we **simplify the input** by **turning every terminal into a leaf**. ![[Pasted image 20241218181347.png]]
-- Instead of considering every possible tree, we consider all possible subsets of $k-1$ vertices of $T$, paired with the only vertex not included.
-
+- Instead of considering every possible tree, we consider all possible subsets of $k-1$ vertices of $T$, paired with the only vertex not included:
+$$
+\begin{gathered}
+S(U,t_{k}) \\
+\text{For } U = \{ t_{1}, \dots t_{k-1} \}, \text{  } t_{k}  
+\end{gathered}
+$$
 ##### 

@@ -12,17 +12,17 @@ We find a way to deal with **blossoms**
 
 ##### Steps
 
-- We run alternating BFS to construct an alternating forest **with all unmatched vertices as its root.**
-- We call an edge **even-even** if it connects two vertices $(u,v)$ of even depth.
+- We run [[Alternating BFS]] to construct an [[Alternating forest]] **with all unmatched vertices as its root.**
+- We call an edge **even-even** if it connects two vertices $(u,v)$ of even depth. **While such an edge exists:**
 	- If $u$ and $v$ belong to different trees, no worries. The union of their paths is an augmenting path **(1)**. 
 ![[Pasted image 20241217202233.png]]
 	- If $u$ and $v$ belong to the same tree, then we have a **blossom** to deal with.
-		- Contract the blossom
+		- Recursively contract blossoms and look for augmenting path. 
 
 
 ##### Proof of correctness
 
-**(1)** This is an augmenting path because, by definition of an alternating forest:
+**(1)** This is an augmenting path because, by definition of an [[Alternating forest]]:
 - the roots are going to be unmatched
 - $u,v$ will be matched because they are an at an even depth
 - $u,v$ are connected by an unmatched edge
@@ -59,4 +59,17 @@ To prove the other direction, consider the matching $M'$ that flips the matching
 
 Now, consider an augmenting path for $M'$. Since the first edge in the stem is now unmatched, **at least one** of the endpoints of the augmenting path is not a part of the blossom. 
 
+![[Pasted image 20241217215623.png]]
 
+In fact, it would have to be both of them because of the fact that the stem now starts with an unmatched edge. This ensures that the alternating path, highlighted above, always exists.
+
+- [ ] #lacking Does the stem always start with a matched edge?
+
+##### Running time
+
+We get the following recurrence for finding just one augmenting path
+
+![[Pasted image 20241217221602.png]]
+- [ ] #basics How do we solve a recurrence?
+
+Since we have to find $O\left( \frac{n}{2} \right)$ augmenting paths for it to be a maximum-cardinality matching, the total running time is: $O(n^2m)$.

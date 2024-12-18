@@ -1,7 +1,7 @@
 
 ##### Main idea
 
-We're going to use the Hungarian algorithm by reducing this problem to computing the minimum-weight perfect matching of an auxiliary graph.
+We're going to use the [[Hungarian algorithm]] by reducing this problem to computing the minimum-weight perfect matching of an auxiliary graph.
 
 ##### Steps
 
@@ -28,4 +28,4 @@ Therefore, it can only be true that $w(M) \leq w(M^*)$, and since we claimed tha
 
 ##### Running time
 
-The same as the running time of the Hungarian algorithm, which is $O(n^4)$ without the improvements.
+The same as the running time of the [[Hungarian algorithm]], which is $O(n^4)$ without the improvements.

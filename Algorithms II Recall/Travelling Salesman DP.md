@@ -18,6 +18,6 @@ Where $P(V,i)$ is the length of the path that starts with $v_{1}$ and ends with 
 
 ##### Steps
 
-We build a table storing the length of each such path.
-
-The size of this table is bounded by $2^{n-1}\cdot n$
+We build a table storing $P(V,i)$ for $2 \leq i \leq n$. 
+	The size of this table is bounded by $2^{n-1}\cdot n$ as for every vertex except our "$v_{1}$", we either choose for it to be in the subset or not. The times $n$ term is because we have $n$ choices for our "$v_{1}$" vertex.
+	It can be

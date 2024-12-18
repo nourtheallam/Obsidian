@@ -8,3 +8,16 @@ This yields $O^*(n!)$ time.
 
 $\rightarrow$ Maybe we can find the TST of the graph without each vertex $u$ then reincorporate $u$ as cheaply as possible?
 	 **No. An optimal TST isn't composed of smaller TSTs.** 
+
+Instead, consider:
+	A cycle that "starts" with $v_{1}$ and ends with $v_{i}$ before $v_{1}$ **must include** the edge $(v_{i}, v_{1})$. 
+
+Therefore, we recurse on the following: 
+$$\min_{2 \leq i \leq n}(P(V, i) + w(v_{i}, v_{1}))$$
+Where $P(V,i)$ is the length of the path that starts with $v_{1}$ and ends with $v_{i}$. 
+
+##### Steps
+
+We build a table storing the length of each such path.
+
+The size of this table is bounded by $2^{n-1}\cdot n$

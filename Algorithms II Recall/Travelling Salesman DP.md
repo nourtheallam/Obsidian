@@ -7,5 +7,4 @@ A naive implementation:
 This yields $O^*(n!)$ time. 
 
 $\rightarrow$ Maybe we can find the TST of the graph without each vertex $u$ then reincorporate $u$ as cheaply as possible?
-
-**No.** An optimal TST isn't composed of smaller TSTs. 
+	 **No. An optimal TST isn't composed of smaller TSTs.** 

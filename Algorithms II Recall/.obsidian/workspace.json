@@ -134,6 +134,20 @@
             }
           },
           {
+            "id": "9aeac5bcc74dcd08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steiner Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steiner Tree"
+            }
+          },
+          {
             "id": "a2f5ca9f956e3a79",
             "type": "leaf",
             "state": {
@@ -172,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -288,10 +302,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Travelling Salesman DP.md"
+                "file": "Steiner Tree.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Travelling Salesman DP"
+              "title": "Outline of Steiner Tree"
             }
           },
           {
@@ -344,10 +358,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf992abf7a81db80",
+  "active": "9aeac5bcc74dcd08",
   "lastOpenFiles": [
-    "Vertex cover branching.md",
     "Travelling Salesman DP.md",
+    "Steiner Tree.md",
+    "Vertex cover branching.md",
     "Vertex cover 2-approximation.md",
     "Complementary slackness.md",
     "Weak LP duality.md",
@@ -382,7 +397,6 @@
     "Algorithms II Concepts/Kernelization.md",
     "Algorithms II Algorithms/Vertex Cover Branching.md",
     "Algorithms II Algorithms/Vertex Cover Branching Better.md",
-    "Algorithms II Concepts/Dual.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

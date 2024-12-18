@@ -25,4 +25,4 @@ We build a table storing $P(V,i)$ for $2 \leq i \leq n$.
 Each individual entry can be computed in constant because: 
 
 - If $v_{1}$ is the only vertex in the subset, then $P(V,i) = 0$ if $i=1$. 
-- If we have more vertices, then $P(V, i) = \min(P(V - v_{i}, j) + w(v_{j}, v_{i}))$ where $v_{j}$ is the vertex preceding $v_{i}$,  
+- If we have more vertices, then $P(V, i) = \min(P(V - v_{i}, j) + w(v_{j}, v_{i}))$ where $v_{j}$ is the vertex preceding $v_{i}$.  

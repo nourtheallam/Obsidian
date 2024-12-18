@@ -92,6 +92,34 @@
             }
           },
           {
+            "id": "37171b34db136347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vertex cover 2-approximation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vertex cover 2-approximation"
+            }
+          },
+          {
+            "id": "4b52bd9a81ab711a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vertex cover branching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vertex cover branching"
+            }
+          },
+          {
             "id": "a2f5ca9f956e3a79",
             "type": "leaf",
             "state": {
@@ -130,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -246,10 +274,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complementary slackness.md"
+                "file": "Vertex cover branching.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Complementary slackness"
+              "title": "Outline of Vertex cover branching"
             }
           },
           {
@@ -302,8 +330,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b57f426ab7e18230",
+  "active": "4b52bd9a81ab711a",
   "lastOpenFiles": [
+    "Vertex cover 2-approximation.md",
+    "Vertex cover branching.md",
+    "Complementary slackness.md",
     "Weak LP duality.md",
     "Strong LP duality.md",
     "Edmonds's Algorithm.md",
@@ -322,7 +353,6 @@
     "Hungarian algorithm.md",
     "Matching.md",
     "Primal-dual schema.md",
-    "Complementary slackness.md",
     "Untitled 1.md",
     "Bipartite maximum-cardinality matching.md",
     "Multiway vertex cut half-integrality.md",
@@ -339,7 +369,6 @@
     "Algorithms II Algorithms/Vertex Cover Branching Better.md",
     "Algorithms II Concepts/Dual.md",
     "Algorithms II Concepts/Problem kernel.md",
-    "Algorithms II Concepts/Crown.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

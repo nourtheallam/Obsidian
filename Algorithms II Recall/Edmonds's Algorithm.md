@@ -54,7 +54,9 @@ If $M-B$ is not maximum, then there exists an augmenting path. This augmenting p
 To prove the other direction, consider the matching $M'$ that flips the matching of the stem. 
 	**Observe:** $M$ is a maximum matching $\iff M'$ is because the stem is even-length.
 	This implies that $M-B$ is maximum $\iff M' - B$ is maximum.
-
+	
 ![[Pasted image 20241217213940.png]]
+
+Now, consider an augmenting path for $M'$. Since the first edge in the stem is now unmatched, **at least one** of the endpoints of the augmenting path is not a part of the blossom. 
 
 

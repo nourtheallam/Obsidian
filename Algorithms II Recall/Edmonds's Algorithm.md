@@ -33,3 +33,8 @@ Given an augmenting path $P$, partition it into subpaths whose edges stay in the
 
 ![[Pasted image 20241217203712.png]]
 
+**Observe**: 
+- The endpoints of this path have to be roots because they are unmatched, they also must be even.
+- The subpaths are always connected by an unmatched edge because otherwise, they would've belong to the same tree.
+- Any subpath that is not the first or last subpath will have one of its endpoints be odd. 
+	- If both endpoints are matched, then one of them is not the root, and it follows that it is odd. 

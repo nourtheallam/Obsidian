@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAX-SAT randomized rounding.md",
+                "file": "Greedy Set Cover.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAX-SAT randomized rounding"
+              "title": "Greedy Set Cover"
             }
           }
         ],
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "60fee83eced315d6",
@@ -104,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Greedy Set Cover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Greedy Set Cover"
             }
           },
           {
@@ -122,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Greedy Set Cover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Greedy Set Cover"
             }
           },
           {
@@ -148,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAX-SAT randomized rounding.md"
+                "file": "Greedy Set Cover.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MAX-SAT randomized rounding"
+              "title": "Outline of Greedy Set Cover"
             }
           },
           {
@@ -160,8 +164,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -185,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,10 +210,10 @@
   },
   "active": "f2dfda65f58d0f9c",
   "lastOpenFiles": [
+    "MAX-SAT randomized rounding.md",
     "Greedy Set Cover.md",
     "Untitled.md",
     "Attachments/Pasted image 20241219174318.png",
-    "MAX-SAT randomized rounding.md",
     "Vertex cover 2-approximation.md",
     "Alternating forest.md",
     "Alternating BFS.md",

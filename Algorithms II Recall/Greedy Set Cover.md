@@ -9,25 +9,26 @@ And choose the set $S_{i}$ that minimizes it.
 
 **Proof:**
 
-Let 
-$$p_{e} = \frac{w_{S}}{|S - C|}$$
-Be the **price** that we assigned to each element in $S$ for a given iteration.
-
 Order the elements (not sets!) in $C$ by the order in which they were added to yield the sequence $\langle e_{1}, \dots, e_{n} \rangle$. 
 
+Let 
+$$p_{e_{i}} = \frac{w_{S_{i}}}{|S_{i} - C|}$$
+Be the **price** that we assigned to each element in $S$ for a given iteration.
+
 Assign each element $e$ not yet in $C$ to **exactly one** set $S'$ also not in $C$.
-$$p'_{e} = \frac{w_{S'}}{|S'|}$$
-Let $C^*$ be an optimal set cover, and $C' \subseteq C^*$ be the subset of elements in $C^*$ that were not included in $C$ at some $i^{th}$ iteration. Then, 
-$p'_{e} \leq w(C') \leq w(C^*) = OPT$$
-If $p'_{e} \leq OPT$, then 
-$$\frac{p'_{e}}{|C'|}$$
+$$p'_{e_{i}} = \frac{w_{S'}}{|S'|}$$
 
-_
+Let $C^*$ be an optimal set cover, and $C' \subseteq C^*$ be the subset of elements in $C^*$ that were not yet included in $C$ at some $i^{th}$ iteration. Then, 
+$$\sum_{e \in C'} p_{e} = w(C')  \leq w(C^\star ) = OPT$$
+Which implies
+$$\frac{\sum_{e \in C'} p_{e}}{|C'|} \leq \frac{OPT}{|C'|} = \frac{OPT}{|U - C|}$$
+In which there must exist an element that satisfies
+$$p_{e} \leq \frac{OPT}{|U-C|}$$
+Because $\frac{\sum_{e \in C'} p'_{e}}{|C'|}$ is the average.
 
-Since each set must contain at least one element, and since the $e_{i}$ elements are not yet in $C$, 
+Furthermore, observe that
 $$n - i + 1 \leq |U-C| \implies \frac{OPT}{n - i + 1} \geq \frac{OPT}{|U-C|} \implies p_{e} \leq \frac{OPT}{n-i+1}$$
-__
-
 Finally, note that $H_{n} = \Theta(\log n)$, and 
 
-![[Pasted image 20241209172948.png]]
+
+

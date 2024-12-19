@@ -33,4 +33,9 @@ For the first claim, consider the probability that the $i^{th}$ cover $\mathcal{
 
 
 ![[Pasted image 20241219151109.png]]
+**Where $e$ here is Euler's number**
+
+The probability that all covers $\mathcal{C}^i$ leave it uncovered is multiplying this probability $t$ times: 
+
+![[Pasted image 20241219151448.png]]
 

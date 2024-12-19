@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Edmonds's Algorithm.md",
+                "file": "Algorithms II Algorithms/Set Cover Greedy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edmonds's Algorithm"
+              "title": "Set Cover Greedy"
             }
           },
           {
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "60fee83eced315d6",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Edmonds's Algorithm.md",
+                "file": "Algorithms II Algorithms/Set Cover Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Edmonds's Algorithm"
+              "title": "Backlinks for Set Cover Greedy"
             }
           },
           {
@@ -126,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Edmonds's Algorithm.md",
+                "file": "Algorithms II Algorithms/Set Cover Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Edmonds's Algorithm"
+              "title": "Outgoing links from Set Cover Greedy"
             }
           },
           {
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Edmonds's Algorithm.md"
+                "file": "Algorithms II Algorithms/Set Cover Greedy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Edmonds's Algorithm"
+              "title": "Outline of Set Cover Greedy"
             }
           },
           {
@@ -201,6 +202,7 @@
   },
   "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
+    "Algorithms II Algorithms/Edmonds's Algorithm.md",
     "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
     "Algorithms II Concepts/Matching.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
@@ -236,7 +238,6 @@
     "Algorithms II Concepts/Multiway Vertex Cut.md",
     "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
-    "Algorithms II Concepts/Relaxed Complementary Slackness.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

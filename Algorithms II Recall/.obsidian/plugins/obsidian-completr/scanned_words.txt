@@ -2290,6 +2290,8 @@ cardinality
 checker
 calculating
 cheaply
+clauses
+clause
 be
 both
 by
@@ -2573,6 +2575,7 @@ blossoms
 blossom
 basics
 build
+boolean
 into
 is
 independent
@@ -4694,6 +4697,7 @@ wdm
 wMK
 wEY
 worries
+writ
 The
 Time
 Thus
@@ -8805,6 +8809,7 @@ fND
 formulate
 flips
 fails
+formula
 proves
 probabilities
 probability

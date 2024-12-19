@@ -20,4 +20,3 @@ Instead of calculating a running time, we calculate an **expected** running time
 $$\sum_{i= 0}^{\infty} (1- \rho)^i = \frac{1}{\rho}$$
 The above gives us the number of time the loop is executed, and therefore, the total expected running time is 
 $$(T_{M}(n) + T_{C}(n))\left( \frac{1}{\rho} \right)$$
-$$P[\hat{x}_{i} = 1] = \tilde{x}_{i} \implies E[\hat{x_{i}}] = (1 \cdot \tilde{x_{i}}) = \tilde{x}_{i}$$

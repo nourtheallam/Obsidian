@@ -1823,6 +1823,8 @@ efficiently
 easily
 eShS
 ewR
+embed
+expected
 can
 components
 call
@@ -2281,6 +2283,8 @@ closest
 claimed
 contract
 cardinality
+checker
+calculating
 be
 both
 by
@@ -4036,6 +4040,7 @@ labels
 link
 lacking
 leaf
+loops
 us
 unlike
 up
@@ -6481,6 +6486,7 @@ regions
 roots
 reducing
 relation
+returned
 value
 values
 variables
@@ -8783,6 +8789,7 @@ fqF
 fND
 formulate
 flips
+fails
 proves
 probabilities
 probability
@@ -10047,6 +10054,7 @@ CANNOT
 Cannot
 CFbHuA
 CPF
+Carlo
 Expectation
 Example
 Enter
@@ -10359,6 +10367,7 @@ EdJ
 Else
 Ecr
 English
+Expected
 Note
 Next
 NDk
@@ -10882,6 +10891,7 @@ Lastly
 LZR
 LRm
 LUu
+Las
 Because
 Based
 BFS
@@ -13664,6 +13674,7 @@ RlK
 RUF
 RkA
 Recursively
+Return
 KGgoAAAANSUhEUgAAANoAAADnCAMAAABPJ
 KpD
 KWoSoKZkwwuTLqNmuJDmYmo
@@ -14560,6 +14571,7 @@ VOj
 VnIS
 VPD
 VqZ
+Vegas
 DJKx
 DIPvAAHPlhevlISe
 DS
@@ -15170,6 +15182,7 @@ MMK
 MDt
 MgF
 Main
+Monte
 XvL
 XebNHu
 XdJl

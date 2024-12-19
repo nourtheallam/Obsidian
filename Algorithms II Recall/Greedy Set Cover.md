@@ -26,9 +26,12 @@ In which there must exist an element that satisfies
 $$p_{e} \leq \frac{OPT}{|U-C|}$$
 Because $\frac{\sum_{e \in C'} p'_{e}}{|C'|}$ is the average.
 
-Furthermore, observe that
+Furthermore, observe that **because** we consider $C'$ to be the set of elements not yet added at the $i^{th}$ iteration
 $$n - i + 1 \leq |U-C| \implies \frac{OPT}{n - i + 1} \geq \frac{OPT}{|U-C|} \implies p_{e} \leq \frac{OPT}{n-i+1}$$
 Finally, note that $H_{n} = \Theta(\log n)$, and 
+
+![[Pasted image 20241219182141.png]]
+
 
 
 

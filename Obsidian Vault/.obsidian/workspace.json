@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Greedy.md",
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Cover Greedy"
+              "title": "Set Cover Dual Fitting"
             }
           },
           {
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60fee83eced315d6",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Greedy.md",
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Set Cover Greedy"
+              "title": "Backlinks for Set Cover Dual Fitting"
             }
           },
           {
@@ -127,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Greedy.md",
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Set Cover Greedy"
+              "title": "Outgoing links from Set Cover Dual Fitting"
             }
           },
           {
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Greedy.md"
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Set Cover Greedy"
+              "title": "Outline of Set Cover Dual Fitting"
             }
           },
           {
@@ -202,7 +201,19 @@
   },
   "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
+    "Algorithms II Concepts/Dual Fitting.md",
+    "Algorithms II Algorithms/Crown Reduction.md",
+    "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Algorithms/Edmonds's Algorithm.md",
+    "Algorithms II Algorithms/Simplex.md",
+    "Algorithms II Algorithms/Set Cover Greedy.md",
+    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
+    "Algorithms II Algorithms/Preflow-Push.md",
+    "Algorithms II Algorithms/Maximum Independent Set Branching.md",
+    "Algorithms II Algorithms/Maximal matching.md",
+    "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+    "Algorithms II Algorithms/Ford-Fulkerson.md",
+    "Algorithms II Concepts/Max-flow Min-cut.md",
     "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
     "Algorithms II Concepts/Matching.md",
     "Algorithms II Algorithms/The Hungarian Algorithm.md",
@@ -212,20 +223,11 @@
     "Algorithms II Concepts/Alternating Forest.md",
     "Algorithms II Algorithms/Alternating BFS.md",
     "Algorithms II Algorithms/Steiner Tree DP.md",
-    "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Concepts/Kernelization.md",
     "Algorithms II Algorithms/Vertex Cover Branching.md",
     "Algorithms II Algorithms/Vertex Cover Branching Better.md",
     "Algorithms II Concepts/Dual.md",
     "Algorithms II Concepts/Problem kernel.md",
-    "Algorithms II Concepts/Crown.md",
-    "Algorithms II Algorithms/Crown Reduction.md",
-    "Algorithms II Concepts/Randomized Rounding.md",
-    "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
-    "Algorithms II Concepts/Derandomization.md",
-    "Algorithms II Concepts/Randomization.md",
-    "Algorithms II Concepts/Extreme Point Solution.md",
-    "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
     "Images/Pasted image 20241216132913.png",
     "Images/Pasted image 20241216132721.png",
     "Images/Pasted image 20241216132149.png",
@@ -235,9 +237,6 @@
     "Images/Pasted image 20241216130828.png",
     "Images/Pasted image 20241216130746.png",
     "Images/Pasted image 20241216130706.png",
-    "Algorithms II Concepts/Multiway Vertex Cut.md",
-    "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
-    "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Algorithms",
     "Images",
     "untitled folder",

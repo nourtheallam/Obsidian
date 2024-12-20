@@ -22,4 +22,18 @@ Otherwise, we let $S(U, t_{k})$ be defined as
 $$\min_{\emptyset \subset W \subset U} \min_{w \notin T} \left(S(W,w) + S(U - W, w) + dist(v,w) \right)$$
 Where $W$ is **some partition** of $U$ that satisfies the minimization above. 
 ![[Pasted image 20241219191554.png]]
- 
+##### Correctness
+
+We need to show that $S(U,v)$ is indeed a Steiner tree for $U$.
+- $dist(v,w)$ is a shortest path from $v$ to $w$.
+- $w$ is **not a terminal** because we ==defined every terminal to be a leaf, and it has to have at least two incident edges.== 
+- 
+##### Analysis
+
+The table has $O(2^{k-1}n)$ entries.
+
+Each entry takes $O(2^{|U|})\cdot n$ time to compute each entry because we have to consider **all possible subsets** $W$ of $U$ and all possible $w$ but we can use previously computed answers to lookup the answer to $S(W,w), S(U-W,w)$ in polynomial time. 
+
+Therefore, the total running time is 
+
+![[Pasted image 20241219203539.png]]

@@ -11,5 +11,6 @@
   "obsidian-checklist-plugin",
   "obsidian-mkdocs-publisher",
   "obsidian-git",
-  "nuke-orphans"
+  "nuke-orphans",
+  "omnisearch"
 ]

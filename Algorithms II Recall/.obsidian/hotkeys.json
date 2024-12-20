@@ -68,5 +68,13 @@
       ],
       "key": "5"
     }
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }

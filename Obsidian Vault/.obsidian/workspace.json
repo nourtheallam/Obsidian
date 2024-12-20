@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
+                "file": "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relaxed Complementary Slackness"
+              "title": "Vertex Cover Crown Reduction"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reduction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
+                "file": "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relaxed Complementary Slackness"
+              "title": "Backlinks for Vertex Cover Crown Reduction"
             }
           },
           {
@@ -126,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
+                "file": "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relaxed Complementary Slackness"
+              "title": "Outgoing links from Vertex Cover Crown Reduction"
             }
           },
           {
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md"
+                "file": "Algorithms II Algorithms/Vertex Cover Crown Reduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Relaxed Complementary Slackness"
+              "title": "Outline of Vertex Cover Crown Reduction"
             }
           },
           {
@@ -201,13 +202,15 @@
   },
   "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
+    "Algorithms II Algorithms/Crown Reduction.md",
+    "Algorithms II Algorithms/Cluster Editing Reduction.md",
+    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
+    "Algorithms II Concepts/Dual Fitting.md",
+    "Algorithms II Concepts/Relaxed Complementary Slackness.md",
     "Algorithms II Concepts/Residual Network.md",
     "Algorithms II Concepts/Residual Capacity.md",
     "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
     "Algorithms II Algorithms/Set Cover Layering.md",
-    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
-    "Algorithms II Concepts/Dual Fitting.md",
-    "Algorithms II Algorithms/Crown Reduction.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Algorithms/Edmonds's Algorithm.md",
     "Algorithms II Algorithms/Simplex.md",
@@ -226,8 +229,6 @@
     "Images/Pasted image 20241215013755.png",
     "Algorithms II Concepts/Alternating Forest.md",
     "Algorithms II Algorithms/Alternating BFS.md",
-    "Algorithms II Algorithms/Steiner Tree DP.md",
-    "Algorithms II Concepts/Kernelization.md",
     "Images/Pasted image 20241216132913.png",
     "Images/Pasted image 20241216132721.png",
     "Images/Pasted image 20241216132149.png",

@@ -10,7 +10,7 @@ Given the [[Cluster Editing]] problem, we employ the following reduction rules:
 
 **(1) Many shared neighbours**
 
-Show that $G$ has a cluster edit of size at most $k$ $\iff$ $G' = G \cup (u,,v)$ has a cluster edit of size at most $k-1$. 
+Show that $G$ has a cluster edit of size at most $k$ $\iff$ $G' = G \cup (u,v)$ has a cluster edit of size at most $k-1$. 
 
 $\implies$ If $G^*$ is a cluster graph obtainable from $G'$ using at most $k-1$ edits, then it is a cluster graph obtainable from $G$ using at most $k$ edits (with the additional edit being adding $(u,v)$). 
 
@@ -24,7 +24,9 @@ $\implies$ If $G^*$ is a cluster graph obtainable form $G$ using at most $k$ edi
 
 **(3) Remove Cliques**
 
-Duh. 
+Let $G'$ be the graph produced by removing all the cliques in $G$, and let $M$ be the set of edits needed for $G'$ to be a cluster graph $G'*$. Then, applying $M$ to $G$ would produce $G'* \cup G[clusters]$ which doesn't take any more edits.
+
+
 
 ##### Two more things to prove
 

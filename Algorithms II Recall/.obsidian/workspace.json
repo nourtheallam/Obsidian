@@ -11,10 +11,14 @@
             "id": "4204e6fa74c2ed7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vertex cover crown reduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vertex cover crown reduction"
             }
           }
         ]
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vertex cover crown reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Vertex cover crown reduction"
             }
           },
           {
@@ -107,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vertex cover crown reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Vertex cover crown reduction"
             }
           },
           {
@@ -132,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Vertex cover crown reduction.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vertex cover crown reduction"
             }
           },
           {
@@ -184,25 +193,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obisidian-note-linker:Note Linker": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "4204e6fa74c2ed7c",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241220121117.png",
+    "Attachments/Pasted image 20241220120837.png",
+    "Attachments/Pasted image 20241220120539.png",
+    "Attachments/Pasted image 20241220120453.png",
+    "Vertex cover crown reduction.md",
     "MAX-SAT randomized rounding.md",
     "Derandomize MAX-SAT.md",
     "Attachments/Pasted image 20241219214415.png",
     "Travelling Salesman DP.md",
-    "Untitled.md",
     "Attachments/Pasted image 20241219214034.png",
     "Attachments/Pasted image 20241219213848.png",
     "Attachments/Pasted image 20241219213503.png",
     "Attachments/Pasted image 20241219211131.png",
     "Attachments/Pasted image 20241219211023.png",
     "Attachments/Pasted image 20241219210720.png",
-    "Attachments/Pasted image 20241219210633.png",
-    "Attachments/Pasted image 20241219210605.png",
-    "Attachments/Pasted image 20241219210527.png",
     "Steiner tree.md",
     "Greedy set cover.md",
     "Vertex cover 2-approximation.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Cover Dual Fitting"
+              "title": "Relaxed Complementary Slackness"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Set Cover Dual Fitting"
+              "title": "Backlinks for Relaxed Complementary Slackness"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Set Cover Dual Fitting"
+              "title": "Outgoing links from Relaxed Complementary Slackness"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md"
+                "file": "Algorithms II Concepts/Relaxed Complementary Slackness.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Set Cover Dual Fitting"
+              "title": "Outline of Relaxed Complementary Slackness"
             }
           },
           {
@@ -201,13 +201,17 @@
   },
   "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
+    "Algorithms II Concepts/Residual Network.md",
+    "Algorithms II Concepts/Residual Capacity.md",
+    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
+    "Algorithms II Algorithms/Set Cover Layering.md",
+    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
     "Algorithms II Concepts/Dual Fitting.md",
     "Algorithms II Algorithms/Crown Reduction.md",
     "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Algorithms/Edmonds's Algorithm.md",
     "Algorithms II Algorithms/Simplex.md",
     "Algorithms II Algorithms/Set Cover Greedy.md",
-    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
     "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Algorithms/Maximum Independent Set Branching.md",
     "Algorithms II Algorithms/Maximal matching.md",
@@ -224,10 +228,6 @@
     "Algorithms II Algorithms/Alternating BFS.md",
     "Algorithms II Algorithms/Steiner Tree DP.md",
     "Algorithms II Concepts/Kernelization.md",
-    "Algorithms II Algorithms/Vertex Cover Branching.md",
-    "Algorithms II Algorithms/Vertex Cover Branching Better.md",
-    "Algorithms II Concepts/Dual.md",
-    "Algorithms II Concepts/Problem kernel.md",
     "Images/Pasted image 20241216132913.png",
     "Images/Pasted image 20241216132721.png",
     "Images/Pasted image 20241216132149.png",

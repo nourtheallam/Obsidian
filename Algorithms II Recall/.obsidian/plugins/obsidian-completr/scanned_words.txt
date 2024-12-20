@@ -2296,6 +2296,7 @@ calculating
 cheaply
 clauses
 clause
+clear
 be
 both
 by
@@ -2580,6 +2581,7 @@ blossom
 basics
 build
 boolean
+biased
 into
 is
 independent
@@ -2993,6 +2995,7 @@ idea
 improvements
 implementation
 indeed
+improve
 depedent
 dependent
 definite
@@ -3365,6 +3368,8 @@ dHPG
 dZF
 dependant
 didn
+deterministically
+dip
 and
 above
 as
@@ -4705,6 +4710,7 @@ wMK
 wEY
 worries
 writ
+whichever
 The
 Time
 Thus
@@ -9180,6 +9186,7 @@ pUZ
 parameterize
 permutations
 preceding
+performing
 When
 Well
 Which

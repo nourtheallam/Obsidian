@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8373920e18cce1",
+        "id": "85a0add45885667d",
         "type": "tabs",
         "children": [
           {
-            "id": "65e7c61f1ad605f1",
+            "id": "4204e6fa74c2ed7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f2dfda65f58d0f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAX-SAT randomized rounding.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "MAX-SAT randomized rounding"
-            }
-          },
-          {
-            "id": "44c434f281a0af61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Derandomization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derandomization"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derandomization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Derandomization"
+              "title": "Backlinks"
             }
           },
           {
@@ -137,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derandomization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Derandomization"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Derandomization.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Derandomization"
+              "title": "Outline"
             }
           },
           {
@@ -220,23 +187,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44c434f281a0af61",
+  "active": "4204e6fa74c2ed7c",
   "lastOpenFiles": [
     "MAX-SAT randomized rounding.md",
-    "Derandomization.md",
+    "Derandomize MAX-SAT.md",
+    "Attachments/Pasted image 20241219214415.png",
+    "Travelling Salesman DP.md",
+    "Untitled.md",
+    "Attachments/Pasted image 20241219214034.png",
+    "Attachments/Pasted image 20241219213848.png",
+    "Attachments/Pasted image 20241219213503.png",
     "Attachments/Pasted image 20241219211131.png",
     "Attachments/Pasted image 20241219211023.png",
     "Attachments/Pasted image 20241219210720.png",
     "Attachments/Pasted image 20241219210633.png",
     "Attachments/Pasted image 20241219210605.png",
     "Attachments/Pasted image 20241219210527.png",
-    "Attachments/Pasted image 20241219210412.png",
     "Steiner tree.md",
-    "Attachments/Pasted image 20241219203539.png",
     "Greedy set cover.md",
-    "Attachments/Pasted image 20241219191554.png",
-    "Attachments/Pasted image 20241219191330.png",
-    "Travelling Salesman DP.md",
     "Vertex cover 2-approximation.md",
     "Alternating forest.md",
     "Alternating BFS.md",
@@ -256,7 +224,6 @@
     "Primal-dual schema.md",
     "Multiway vertex cut half-integrality.md",
     "Vertex cover half-integrality.md",
-    "Half-integral.md",
     "Attachments",
     "Algorithms II Algorithms",
     "Images",

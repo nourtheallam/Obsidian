@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "edmonds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +197,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4204e6fa74c2ed7c",
+  "active": "9a5772885e39e677",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241220123603.png",
+    "Attachments/Pasted image 20241220122225.png",
     "Attachments/Pasted image 20241220121117.png",
     "Attachments/Pasted image 20241220120837.png",
     "Attachments/Pasted image 20241220120539.png",
@@ -212,8 +214,6 @@
     "Attachments/Pasted image 20241219213848.png",
     "Attachments/Pasted image 20241219213503.png",
     "Attachments/Pasted image 20241219211131.png",
-    "Attachments/Pasted image 20241219211023.png",
-    "Attachments/Pasted image 20241219210720.png",
     "Steiner tree.md",
     "Greedy set cover.md",
     "Vertex cover 2-approximation.md",

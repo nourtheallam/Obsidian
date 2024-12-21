@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms II Algorithms/Ford-Fulkerson.md",
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ford-Fulkerson"
+              "title": "Set Cover Dual Fitting"
             }
           },
           {
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "augmenting path",
+                "query": "set cover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms II Algorithms/Ford-Fulkerson.md",
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ford-Fulkerson"
+              "title": "Backlinks for Set Cover Dual Fitting"
             }
           },
           {
@@ -151,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms II Algorithms/Ford-Fulkerson.md",
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ford-Fulkerson"
+              "title": "Outgoing links from Set Cover Dual Fitting"
             }
           },
           {
@@ -178,10 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms II Algorithms/Ford-Fulkerson.md"
+                "file": "Algorithms II Algorithms/Set Cover Dual Fitting.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ford-Fulkerson"
+              "title": "Outline of Set Cover Dual Fitting"
             }
           },
           {
@@ -226,8 +225,9 @@
   },
   "active": "eb4b1db5878065d3",
   "lastOpenFiles": [
-    "Algorithms II Algorithms/Edmonds-Karp.md",
+    "Algorithms II Algorithms/Set Cover Greedy.md",
     "Algorithms II Algorithms/Ford-Fulkerson.md",
+    "Algorithms II Algorithms/Edmonds-Karp.md",
     "Algorithms II Concepts/Max-flow Min-cut.md",
     "Algorithms II Concepts/Augmenting Path.md",
     "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
@@ -241,7 +241,6 @@
     "Algorithms II Algorithms/Set Cover Layering.md",
     "Algorithms II Algorithms/Edmonds's Algorithm.md",
     "Algorithms II Algorithms/Simplex.md",
-    "Algorithms II Algorithms/Set Cover Greedy.md",
     "Algorithms II Algorithms/Preflow-Push.md",
     "Algorithms II Algorithms/Maximum Independent Set Branching.md",
     "Algorithms II Algorithms/Maximal matching.md",

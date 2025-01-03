@@ -336,6 +336,7 @@ Ags
 Axv
 ApU
 AIDAT
+All
 showing
 separated
 space
@@ -861,6 +862,9 @@ svg
 sVq
 stem
 subpath
+snd
+select
+small
 that
 the
 time
@@ -1272,6 +1276,11 @@ typ
 tma
 tqX
 tVa
+traverse
+table
+textbf
+term
+trick
 Schrödinger
 Same
 Since
@@ -1621,6 +1630,7 @@ Spfk
 SLq
 SgN
 SÖ
+Search
 equation
 equal
 energy
@@ -2051,6 +2061,9 @@ euj
 ent
 ewj
 expanding
+except
+efficient
+exploit
 can
 components
 call
@@ -2573,6 +2586,8 @@ contraction
 chilling
 contracted
 conclusion
+calculating
+certain
 be
 both
 by
@@ -2921,6 +2936,8 @@ blossom
 blossoms
 biggest
 bored
+behaviour
+behind
 into
 is
 independent
@@ -3366,6 +3383,11 @@ iOq
 igN
 ivvy
 ify
+intervals
+interval
+idea
+influence
+ideas
 depedent
 dependent
 definite
@@ -3764,6 +3786,8 @@ dbw
 dHC
 detailed
 done
+describe
+derive
 and
 above
 as
@@ -4187,6 +4211,10 @@ aqX
 ahq
 algorithms
 alternate
+argue
+application
+analogous
+approximations
 let
 linear
 line
@@ -4587,6 +4615,8 @@ lZn
 lkO
 lMv
 lgZ
+leftmost
+later
 us
 unlike
 up
@@ -4969,6 +4999,7 @@ uVw
 uqZM
 uUC
 udg
+unpredictable
 which
 written
 we
@@ -5354,6 +5385,7 @@ wGf
 wOhq
 wvp
 wvu
+worthwhile
 The
 Time
 Thus
@@ -5978,6 +6010,7 @@ hff
 hbFXr
 hOz
 hgJ
+hamiltonian
 meaning
 measurement
 mechanics
@@ -6503,6 +6536,8 @@ mFts
 mvsz
 mut
 mNl
+main
+miss
 of
 one
 only
@@ -6925,6 +6960,9 @@ oUMOpD
 ols
 osbI
 oMv
+option
+overlaps
+occur
 return
 respective
 returns
@@ -7415,6 +7453,13 @@ rhu
 rpl
 relation
 recurse
+relied
+report
+relaxed
+returning
+recsurive
+round
+required
 value
 values
 variables
@@ -8414,6 +8459,7 @@ goM
 geV
 gkn
 grows
+gap
 In
 Infinite
 Inside
@@ -8777,6 +8823,7 @@ IXv
 Iqx
 Inspect
 Incomplete
+ILPs
 quantum
 qBcf
 qFyOlOebVKg
@@ -10151,6 +10198,9 @@ ftF
 fgc
 fWsm
 fyb
+fill
+false
+fastest
 proves
 probabilities
 probability
@@ -10588,6 +10638,10 @@ pVr
 pYb
 pbN
 performing
+pairwise
+pairs
+producing
+plug
 When
 Well
 Which
@@ -11664,6 +11718,7 @@ Cnu
 CXy
 CoR
 Concatenating
+Calculate
 Expectation
 Example
 Enter
@@ -12000,6 +12055,7 @@ EWg
 Eml
 Edmonds
 Expanding
+Earlier
 Note
 Next
 NDk
@@ -12917,6 +12973,7 @@ BFk
 BNN
 BwV
 Blossom
+Branching
 Question
 QhAL
 QAxdR
@@ -13676,6 +13733,7 @@ Oua
 OWWn
 OWS
 Oly
+Option
 zeros
 zero
 zOV
@@ -17248,6 +17306,8 @@ DMK
 DWW
 Double
 Does
+Definitions
+Describe
 MfujfQu
 MB
 Mc
@@ -17636,6 +17696,8 @@ MLM
 MpT
 Meaning
 Matchings
+MST
+Must
 XvL
 XebNHu
 XdJl
